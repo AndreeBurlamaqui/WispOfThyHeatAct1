@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 128cd39bbc3503041b279df140e30fad, type: 3}
+  m_Name: EncontroComMithra
+  m_EditorClassIdentifier: 
+  linesEN: []
+  linesBR:
+  - CharacterName: Nasreen Kianian
+    DialogText: "Que?! Quem ou... O que \xE9 voc\xEA?!\r"
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: "O que sou? Hmm... Me falta certeza, apesar de que acredito estar
+      \ categorizado como um fogo- f\xE1tuo, aparentemente? Hmm..\n"
+  - CharacterName: Nasreen Kianian
+    DialogText: "Um... Um fogo-f\xE1tuo?! \xC9... \xE9 s\xE9rio? Mas... Aquele barulho
+      de antes veio do senhor?\r"
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: "Se este barulho que citas \xE9 o que penso, ent\xE3o sim, veio de
+      minha queda. Pe\xE7o perd\xE3o se foi de algum inc\xF4modo, n\xE3o era minha
+      inten\xE7\xE3o estar aqui..."
+  - CharacterName: Nasreen Kianian
+    DialogText: "N\xE3o, n\xE3o. Est\xE1... Est\xE1 tudo bem! Se o senhor n\xE3o fez
+      de prop\xF3sito, ent\xE3o est\xE1 tudo bem."
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: "Obrigado pela compreens\xE3o, senhorita, mas... Sem mais delongas,
+      preciso pedir-te um favor...\r"
+  - CharacterName: Nasreen Kianian
+    DialogText: "Um favor? Ah, \xE9 claro! Desculpa por n\xE3o ter percebido! Voc\xEA
+      precisa de ajuda pra sair da\xED, n\xE3o \xE9?!"
+  - CharacterName: Nasreen Kianian
+    DialogText: "Pode deixar, eu vou chamar algum adulto para ajudar!\r"
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: "N\xE3o! Espere! N\xE3o v\xE1, por favor! N\xE3o vai dar tempo, eu
+      preciso que seja voc\xEA!\r"
+  - CharacterName: Nasreen Kianian
+    DialogText: "H\xE3? Eu? Euzinha? Mas... Eu n\xE3o sou forte, n\xE3o sei se consigo...
+      Mas, tenho certeza que o pessoal da vila consegue!"
+  - CharacterName: Nasreen Kianian
+    DialogText: "N\xE3o se preocupa, eu sou r\xE1pida, sei que vou e volto num instante!
+      Tu nem vai perceber!\r"
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: "N\xE3o, n\xE3o, voc\xEA \xE9 perfeita, senhorita! N\xE3o se preocupe,
+      pois n\xE3o \xE9 de seu f\xEDsico que necessito.\r"
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: "Preciso de sua companhia, sabe? Preciso\u2026 Preciso de um contrato!\r"
+  - CharacterName: Nasreen Kianian
+    DialogText: "Um contrato? O que quer dizer com isso?\r"
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: "Vamos... Vamos com calma, certo? Qual... Qual \xE9 seu nome, senhorita?\r"
+  - CharacterName: Nasreen Kianian
+    DialogText: "Me... Me chamo Nasreen... Da tribo Kianian. Por que pergunta assim
+      do nada?\r"
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: "\xC9 que, sabe, Nasreen, um contrato \xE9 o princ\xEDpio da amizade,
+      portanto, amizade \xE9 um contrato... Pois, \xE9 um juramento entre os presentes,
+      entende, Nasreen?\r"
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: "Mas... Mas, \xE9 claro que vou entender se a senhorita n\xE3o aceitar,
+      afinal sou um estranho para voc\xEA."
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: "Mas... Mas, juro para voc\xEA, Nasreen, que n\xE3o sou do mal! Apenas
+      preciso de ajuda\u2026 Apenas um juramento que vamos ajudar um ao outro, Nasreen... "
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: "Eu sei que pode parecer inapropriado pedir um contrato assim\u2026
+      Mas, tente entender..."
+  - CharacterName: Nasreen Kianian
+    DialogText: "Ent\xE3o o senhor precisa da minha ajuda?\r"
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: Bem... Um pouco... Bastante...
+  - CharacterName: Nasreen Kianian
+    DialogText: "Mas oras, claro que ajudo! Eu n\xE3o entendi muito bem o neg\xF3cio
+      ali dos contratos, mas adoro fazer amizades, ent\xE3o tudo bem!"
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: "H\xE3? Voc\xEA vai me ajudar mesmo?!\r"
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: "Ah... Ent\xE3o... Bom, ent\xE3o fique paradinha e me deixe rodear
+      voc\xEA!\r"

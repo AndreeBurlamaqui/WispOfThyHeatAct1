@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GoontBridgeIdle
+  m_Shader: {fileID: -6465566751694194690, guid: 32f878e7036259b48a5374f758d7db5d,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_855E5BEE:
+        m_Texture: {fileID: 2800000, guid: 8fa6c53841a724346ae0bc60dc861368, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: a298323ee99e2a242841d3e39838ec0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_446545B7: 9
+    - Vector1_4B101A96: 2
+    - Vector1_6096E0AA: 5
+    - Vector1_696B86C3: 0.07
+    - Vector1_74A4EA8: 0.1
+    - Vector1_8A68703F: 19.08
+    - Vector1_A139E8E2: 0.5
+    - Vector1_B2D6ABFF: 2
+    - Vector1_B4C8D7BE: 1.36
+    - Vector1_D04A4FBE: 0.24
+    - Vector1_D165CC5B: 10
+    - Vector1_DCED17C4: 2
+    - Vector1_DF5C317D: 0.1
+    - Vector1_EC1BD99B: -0.21
+    - Vector1_FA5EEC48: 2
+    - _DissolveAmount: 1
+    - _EnableExternalAlpha: 0
+    m_Colors:
+    - Color_39843DE6: {r: 0.13333334, g: 0.78431374, b: 1.4980392, a: 1}
+    - Color_E82C18D7: {r: 1.200159, g: 4.176555, b: 4.584609, a: 1}
+    - Vector2_22D2E178: {r: -0.1, g: -0.5, b: 0, a: 0}
+    - Vector2_57BB9892: {r: 0, g: -0.3, b: 0, a: 0}
+    - Vector2_6592533A: {r: 0, g: 3, b: 0, a: 0}
+    - Vector2_D4E737C0: {r: -2, g: -2, b: 0, a: 0}
+    - _Alpha: {r: 0, g: 0, b: 0, a: 1}
+    - _Color: {r: 0, g: 0, b: 0, a: 0}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 0, g: 0, b: 0, a: 1}

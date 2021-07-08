@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 128cd39bbc3503041b279df140e30fad, type: 3}
+  m_Name: KardelenMonologue
+  m_EditorClassIdentifier: 
+  Condition: KardelenLast
+  linesEN: []
+  linesBR:
+  - CharacterName: Kardelen, o banana
+    DialogText: "Deus da Colora\xE7\xE3o, que com seu ardente olho-c\xEDclico ilumina
+      as causas justas e urgentes, escurecendo as m\xE1s inten\xE7\xF5es.\r"
+    voice: {fileID: 0}
+  - CharacterName: Kardelen, o banana
+    DialogText: "Interceda por mim junto ao nosso brilho d\u2019\xE1gua e socorra-me
+      nesta hora de afli\xE7\xE3o e desespero.\r"
+    voice: {fileID: 0}
+  - CharacterName: Kardelen, o banana
+    DialogText: "Tu que \xE9s um divino guerreiro a brilhar sobre nossas testas; tu
+      que \xE9s o acompanhante dos aflitos e guia nossa Catarata para regar nosso
+      futuro;"
+    voice: {fileID: 0}
+  - CharacterName: Kardelen, o banana
+    DialogText: "Tu que \xE9s o raiar dos respingos da Catarata nos desesperados;
+      Tu que \xE9s o Sacrossanto em matrim\xF4nio com nossa m\xE3e Catarata... Proteja-me.
+      \r"
+    voice: {fileID: 0}
+  - CharacterName: Kardelen, o banana
+    DialogText: "Ajuda-me, dai-me for\xE7a, coragem e serenidade. Atenda ao meu pedido,
+      pois obedientemente pe\xE7o-Te sua calorosa companhia e vigil\xE2ncia.\r"
+    voice: {fileID: 0}
+  - CharacterName: Kardelen, o banana
+    DialogText: "Sacrossanto que est\xE1 al\xE9m dos limites das cores. Ajuda-me a
+      superar estas horas dif\xEDceis, proteja-me de todos que possam me prejudicar."
+    voice: {fileID: 0}
+  - CharacterName: Kardelen, o banana
+    DialogText: "Ilumine a Catarata e da \xEDris dela tinja nossas vidas de prote\xE7\xE3o,
+      pois a ti prometo minha gratid\xE3o.\r"
+    voice: {fileID: 0}
+  - CharacterName: Kardelen, o banana
+    DialogText: "Regue-me novamente a paz e a tranq\xFCilidade e levantarei seu nome
+      ao alto com o orgulho da promessa.\r"
+    voice: {fileID: 0}

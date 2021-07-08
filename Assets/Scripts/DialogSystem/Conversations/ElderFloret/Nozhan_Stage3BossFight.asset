@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 128cd39bbc3503041b279df140e30fad, type: 3}
+  m_Name: Nozhan_Stage3BossFight
+  m_EditorClassIdentifier: 
+  Condition: 0
+  linesEN: []
+  linesBR:
+  - CharacterName: "Anci\xE3o Ayusmat"
+    DialogText: "N\xE3o tenho mais for\xE7a sobrando, ent\xE3o \xE9 a minha \xFAltima
+      tentativa... Por favor, desista..."
+    voice: {fileID: 0}
+  - CharacterName: "Anci\xE3o"
+    DialogText: "Desista de tentar alcan\xE7ar as estrelas, elas s\xE3o mais quentes
+      do que voc\xEA pensa."
+    voice: {fileID: 0}

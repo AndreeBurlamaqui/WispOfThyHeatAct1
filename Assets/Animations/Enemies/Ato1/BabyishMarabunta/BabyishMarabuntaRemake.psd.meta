@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 96f5efcb907db3d43bb51536e877491f
+importerOverride: Assembly-CSharp:UnityEditor.U2D.PSD:PSDImporterOverride
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1611f718633709f4ab4cce2eeecba56b, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 450
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: PataMeio
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 621
+      y: 379
+      width: 108
+      height: 281
+    spriteID: e168a1d9dd4b05c4ab674d86cbe593a1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 91, y: 138}
+  - name: PataTras
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 621
+      y: 148
+      width: 140
+      height: 223
+    spriteID: d017788cabe93344ca84b91e0282c5f3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 90, y: -90}
+  - name: PataFrente
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 481
+      y: 4
+      width: 132
+      height: 268
+    spriteID: 3378fbe12c1630840a0882a1749bbe74
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 72, y: -243}
+  - name: GarraFrente Merged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 692
+      width: 367
+      height: 144
+    spriteID: a830ecece73d84c45804e3e7590226aa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1, y: 428}
+  - name: Bundao Merged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 469
+      height: 385
+    spriteID: 0d14ec6a2f4290342adaf922634cd0b4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -542, y: -283}
+  - name: AntenaFrente
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 621
+      y: 4
+      width: 260
+      height: 136
+    spriteID: 58bf094ff2f66f746a02dbb905f9f7ac
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 583, y: -502}
+  - name: Cabeca Merged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 397
+      width: 395
+      height: 287
+    spriteID: 2ea84f7f2e8eb6d4089e04201d31815d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -182, y: 55}
+  - name: GarraTras Merged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 844
+      width: 370
+      height: 123
+    spriteID: 2714e3409d395784ea290da59223c2a1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -13, y: 461}
+  - name: AntenaTras
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 769
+      y: 148
+      width: 193
+      height: 149
+    spriteID: 8d144608d0643d14faf5d1294c551930
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 652, y: -380}
+  - name: Corpinho
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 621
+      y: 668
+      width: 104
+      height: 201
+    spriteID: b3d751e0b93a1404390378a3a9fe8cfc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 118, y: 309}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 1024
+  documentSize: {x: 1024, y: 1024}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 1024
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Group 15
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 0
+    mosaicPosition: {x: 0, y: 0}
+  - name: PataMeio
+    spriteName: PataMeio
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e168a1d9dd4b05c4ab674d86cbe593a1
+    layerID: -1776627888
+    mosaicPosition: {x: 621, y: 379}
+  - name: PataTras
+    spriteName: PataTras
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d017788cabe93344ca84b91e0282c5f3
+    layerID: 1207987848
+    mosaicPosition: {x: 621, y: 148}
+  - name: PataFrente
+    spriteName: PataFrente
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3378fbe12c1630840a0882a1749bbe74
+    layerID: 301815010
+    mosaicPosition: {x: 481, y: 4}
+  - name: GarraFrente Merged
+    spriteName: GarraFrente Merged
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a830ecece73d84c45804e3e7590226aa
+    layerID: 1655217429
+    mosaicPosition: {x: 4, y: 692}
+  - name: Bundao Merged
+    spriteName: Bundao Merged
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0d14ec6a2f4290342adaf922634cd0b4
+    layerID: 89034323
+    mosaicPosition: {x: 4, y: 4}
+  - name: AntenaFrente
+    spriteName: AntenaFrente
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 58bf094ff2f66f746a02dbb905f9f7ac
+    layerID: 920170583
+    mosaicPosition: {x: 621, y: 4}
+  - name: Cabeca Merged
+    spriteName: Cabeca Merged
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2ea84f7f2e8eb6d4089e04201d31815d
+    layerID: -92450077
+    mosaicPosition: {x: 4, y: 397}
+  - name: GarraTras Merged
+    spriteName: GarraTras Merged
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2714e3409d395784ea290da59223c2a1
+    layerID: -1489866301
+    mosaicPosition: {x: 4, y: 844}
+  - name: AntenaTras
+    spriteName: AntenaTras
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8d144608d0643d14faf5d1294c551930
+    layerID: -1437993359
+    mosaicPosition: {x: 769, y: 148}
+  - name: Corpinho
+    spriteName: Corpinho
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b3d751e0b93a1404390378a3a9fe8cfc
+    layerID: 1095897596
+    mosaicPosition: {x: 621, y: 668}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: BabyishMarabuntaRemake Texture
+  prefabAssetName: BabyishMarabuntaRemake Prefab
+  spriteLibAssetName: BabyishMarabuntaRemake Sprite Lib
+  secondarySpriteTextures: []

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 128cd39bbc3503041b279df140e30fad, type: 3}
+  m_Name: Nozhan_BossFightBegin
+  m_EditorClassIdentifier: 
+  Condition: 0
+  linesEN:
+  - CharacterName: 
+    DialogText: 
+    voice: {fileID: 0}
+  - CharacterName: 
+    DialogText: 
+    voice: {fileID: 0}
+  - CharacterName: 
+    DialogText: 
+    voice: {fileID: 0}
+  - CharacterName: 
+    DialogText: 
+    voice: {fileID: 0}
+  - CharacterName: 
+    DialogText: 
+    voice: {fileID: 0}
+  - CharacterName: 
+    DialogText: 
+    voice: {fileID: 0}
+  - CharacterName: 
+    DialogText: 
+    voice: {fileID: 0}
+  linesBR:
+  - CharacterName: "Anci\xE3o Ayusmat"
+    DialogText: "Nasreen, pare agora mesmo! Voc\xEA precisa ficar longe do port\xE3o,
+      eu falei pra voc\xEA nunca chegar perto do port\xE3o! E voc\xEA prometeu h\xE1
+      muito tempo!\r"
+    voice: {fileID: 0}
+  - CharacterName: "Anci\xE3o Ayusmat"
+    DialogText: "Espero que ambos compreendam, mas n\xE3o posso deix\xE1-los passar
+      de mim!\r"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Mas... Mas, por qu\xEA?! Eu sei... Sei que prometi, mas Mithra precisa
+      de ajuda e essa \xE9 a \xFAnica forma! Por favor, nos deixe passar!"
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: "Pe\xE7o que reconsidere, senhor... N\xE3o conseguirei me manter
+      vivo por muito tempo ficando aqui, preciso voltar."
+    voice: {fileID: 0}
+  - CharacterName: "Anci\xE3o Ayusmat"
+    DialogText: "Nasreen, \"n\xE3o\" \xE9 \"n\xE3o\". Eu n\xE3o quero ter que agir
+      como o seu pai, mas n\xE3o quero voc\xEA l\xE1!"
+    voice: {fileID: 0}
+  - CharacterName: "Anci\xE3o Ayusmat"
+    DialogText: "E, Mithra, espero que compreenda, mas... Mas, me preocupo com a
+      Nasreen e n\xE3o poderei apoi\xE1-los."
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Tudo bem! N\xE3o precisa agir como meu pai! Voc\xEA n\xE3o \xE9
+      ele mesmo!"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Mithra, deixe essa comigo, n\xE3o precisa atirar..."
+    voice: {fileID: 0}

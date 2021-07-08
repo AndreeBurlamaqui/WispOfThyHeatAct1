@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 720ed82ff92b027408232006f9aafb30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7185926575704084931
+    second: FlowerAttack_0
+  - first:
+      213: 2987300739056858363
+    second: FlowerAttack_1
+  - first:
+      213: -4194214787720501380
+    second: FlowerAttack_2
+  - first:
+      213: -2501521879228433243
+    second: FlowerAttack_3
+  - first:
+      213: 9031776448665118772
+    second: FlowerAttack_4
+  - first:
+      213: -765512612921699501
+    second: FlowerAttack_5
+  - first:
+      213: -653103688504613039
+    second: FlowerAttack_6
+  - first:
+      213: -8767049295358501239
+    second: FlowerAttack_7
+  - first:
+      213: 1947627396926553505
+    second: FlowerAttack_8
+  - first:
+      213: 4521904212735786783
+    second: FlowerAttack_9
+  - first:
+      213: -5353339177215306662
+    second: FlowerAttack_10
+  - first:
+      213: -3943900688314492767
+    second: FlowerAttack_11
+  - first:
+      213: -3012860916676082487
+    second: FlowerAttack_12
+  - first:
+      213: 5158048688561721706
+    second: FlowerAttack_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlowerAttack_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3165
+        width: 826
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8762791939e1b9f49beca18828033963
+      internalID: 7185926575704084931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerAttack_1
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 3165
+        width: 826
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd26cb84f7317154a87de7c312095875
+      internalID: 2987300739056858363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerAttack_2
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 3165
+        width: 829
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1289ea9f2b37b36478cbb692303566b1
+      internalID: -4194214787720501380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerAttack_3
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 3165
+        width: 826
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990c3a1efc5f21744a0e695be42a04ad
+      internalID: -2501521879228433243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerAttack_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2274
+        width: 827
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a924ae8ec9119d240824828398911254
+      internalID: 9031776448665118772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2277
+        width: 826
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffa8600c967c8f438815c712d98c00d
+      internalID: -765512612921699501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerAttack_6
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 2277
+        width: 826
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fd47e8cd3ce354fb24fe62c74dd7a6
+      internalID: -653103688504613039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerAttack_7
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 2277
+        width: 826
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5152d831a7b3fb4e90e5efa30436b09
+      internalID: -8767049295358501239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerAttack_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1389
+        width: 826
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c23308f858a1ea498fa678a99325254
+      internalID: 1947627396926553505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1389
+        width: 826
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcb7d1ae55b59941b5f0bd99cde33a5
+      internalID: 4521904212735786783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerAttack_10
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 1389
+        width: 826
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d3005996f3cc546822bff74e169a06
+      internalID: -5353339177215306662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerAttack_11
+      rect:
+        serializedVersion: 2
+        x: 4242
+        y: 1383
+        width: 826
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b4ff42abfc87648b27fa4f3960699c
+      internalID: -3943900688314492767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerAttack_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 489
+        width: 826
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5a6715bedb36b4dbfb6cd0ac7a5ddd
+      internalID: -3012860916676082487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 492
+        width: 826
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae579ee14dfdb64bb378907d3e14026
+      internalID: 5158048688561721706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: 67c6f7a39557b874a86c649a28152bd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6388807107454119205
+    second: MarabuntaQueen_AttackSS_0
+  - first:
+      213: 6876573842757690532
+    second: MarabuntaQueen_AttackSS_1
+  - first:
+      213: 266841331265107593
+    second: MarabuntaQueen_AttackSS_2
+  - first:
+      213: -874191598799484044
+    second: MarabuntaQueen_AttackSS_3
+  - first:
+      213: 1546940279594230485
+    second: MarabuntaQueen_AttackSS_4
+  - first:
+      213: -5719576355660363170
+    second: MarabuntaQueen_AttackSS_5
+  - first:
+      213: -1948939088804202998
+    second: MarabuntaQueen_AttackSS_6
+  - first:
+      213: -2232104599385467674
+    second: MarabuntaQueen_AttackSS_7
+  - first:
+      213: -2978471778612701204
+    second: MarabuntaQueen_AttackSS_8
+  - first:
+      213: -4293135140485807901
+    second: MarabuntaQueen_AttackSS_9
+  - first:
+      213: -3364222173739628114
+    second: MarabuntaQueen_AttackSS_10
+  - first:
+      213: -3804077462636551929
+    second: MarabuntaQueen_AttackSS_11
+  - first:
+      213: 6777959178085194035
+    second: MarabuntaQueen_AttackSS_12
+  - first:
+      213: 867032174043375556
+    second: MarabuntaQueen_AttackSS_13
+  - first:
+      213: -996431232718996677
+    second: MarabuntaQueen_AttackSS_14
+  - first:
+      213: -370359144141757085
+    second: MarabuntaQueen_AttackSS_15
+  - first:
+      213: -7269721888413094692
+    second: MarabuntaQueen_AttackSS_16
+  - first:
+      213: 3545179721071513825
+    second: MarabuntaQueen_AttackSS_17
+  - first:
+      213: -4940748699200239681
+    second: MarabuntaQueen_AttackSS_18
+  - first:
+      213: -1918366392069394599
+    second: MarabuntaQueen_AttackSS_19
+  - first:
+      213: 7450795950703381775
+    second: MarabuntaQueen_AttackSS_20
+  - first:
+      213: -1463177281198019301
+    second: MarabuntaQueen_AttackSS_21
+  - first:
+      213: -1998502263665337117
+    second: MarabuntaQueen_AttackSS_22
+  - first:
+      213: -4812604153646558431
+    second: MarabuntaQueen_AttackSS_23
+  - first:
+      213: 5676338657022179682
+    second: MarabuntaQueen_AttackSS_24
+  - first:
+      213: -2450038662200241685
+    second: MarabuntaQueen_AttackSS_25
+  - first:
+      213: 6954414554392012848
+    second: MarabuntaQueen_AttackSS_26
+  - first:
+      213: 6212078127502392252
+    second: MarabuntaQueen_AttackSS_27
+  - first:
+      213: -3109903402682354658
+    second: MarabuntaQueen_AttackSS_28
+  - first:
+      213: 5625274639751231138
+    second: MarabuntaQueen_AttackSS_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 380
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14408
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d709bafcd9c07428b0d308a1f73b14
+      internalID: 6388807107454119205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_1
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 14408
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45285694d79b18140a9e15a5d0860bbc
+      internalID: 6876573842757690532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_2
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 14408
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295d777a4216f5e4fab5ae935a571573
+      internalID: 266841331265107593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_3
+      rect:
+        serializedVersion: 2
+        x: 6066
+        y: 14408
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5fabc1c0389a34aaacc6785e30e11f
+      internalID: -874191598799484044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12432
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6cdf4bab1def44f92e53ca04cced56
+      internalID: 1546940279594230485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_5
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 12432
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a043e2072b0d4de4cb3540f0ba0394e4
+      internalID: -5719576355660363170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_6
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 12432
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b140152ac389688409d622fc7682b44e
+      internalID: -1948939088804202998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_7
+      rect:
+        serializedVersion: 2
+        x: 6066
+        y: 12432
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2759090720d3b5428c186fad7a28255
+      internalID: -2232104599385467674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10456
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fc3ad221482404e8f25d08ce5ab0c6
+      internalID: -2978471778612701204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_9
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 10456
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c918aa8bc1f73ca439c8c764cb848091
+      internalID: -4293135140485807901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_10
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 10456
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b05a29e83e5ad340a321e3bbc61336a
+      internalID: -3364222173739628114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_11
+      rect:
+        serializedVersion: 2
+        x: 6066
+        y: 10456
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c96bec91ebcb8442b846dee241caae6
+      internalID: -3804077462636551929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8480
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5028afe92879b794eaec4daa5a7ee616
+      internalID: 6777959178085194035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_13
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 8480
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4321eeb22f986418732eb84d062957
+      internalID: 867032174043375556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_14
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 8480
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02ac5e6d1db5ec4e9b184e0007e3875
+      internalID: -996431232718996677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_15
+      rect:
+        serializedVersion: 2
+        x: 6066
+        y: 8480
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5cabf2be938824a990b7e9865ca78a
+      internalID: -370359144141757085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6504
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913b64ee05715c148bf8c1e78cb53f15
+      internalID: -7269721888413094692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_17
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 6504
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555a9002676a47b4094df66b79d471b8
+      internalID: 3545179721071513825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_18
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 6504
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1261cfb58ec21f4e88179a6901220ad
+      internalID: -4940748699200239681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_19
+      rect:
+        serializedVersion: 2
+        x: 6066
+        y: 6504
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea398e6b6ad64742a1e200a26e4e7c1
+      internalID: -1918366392069394599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4528
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814d2dff9172d804ca44ab0c086c55e0
+      internalID: 7450795950703381775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_21
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 4528
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8bce14d1f311c4eb5382e5f102b519
+      internalID: -1463177281198019301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_22
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 4528
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2499dfd3f99ef842baf95836de5e33d
+      internalID: -1998502263665337117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_23
+      rect:
+        serializedVersion: 2
+        x: 6066
+        y: 4528
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643fb61fafddee34689a496ea4e3897d
+      internalID: -4812604153646558431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2552
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f271f74fff836e4f9611afda904e676
+      internalID: 5676338657022179682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_25
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 2552
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af22085d6092f24c91e4377c533bb63
+      internalID: -2450038662200241685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_26
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 2552
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf70542ca97617043aaa41cd03595f56
+      internalID: 6954414554392012848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_27
+      rect:
+        serializedVersion: 2
+        x: 6066
+        y: 2552
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983fc1f13e9e6d945a1a70f0b6a974be
+      internalID: 6212078127502392252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ee652ebbb3ac84d8cb12f204c6562c
+      internalID: -3109903402682354658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_AttackSS_29
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 576
+        width: 2022
+        height: 1976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2821417b54d7e746b49569da73eb6c0
+      internalID: 5625274639751231138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

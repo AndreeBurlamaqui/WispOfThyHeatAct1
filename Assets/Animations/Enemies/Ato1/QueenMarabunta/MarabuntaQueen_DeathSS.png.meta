@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: 3fdfa9e6e8b86bc49a06364926e2f924
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 915034469353614745
+    second: MarabuntaQueen_DeathSS_0
+  - first:
+      213: 3209265954145021045
+    second: MarabuntaQueen_DeathSS_1
+  - first:
+      213: -4181205809457509171
+    second: MarabuntaQueen_DeathSS_2
+  - first:
+      213: -7469581731966732038
+    second: MarabuntaQueen_DeathSS_3
+  - first:
+      213: -5977248287086783769
+    second: MarabuntaQueen_DeathSS_4
+  - first:
+      213: 211854155909252952
+    second: MarabuntaQueen_DeathSS_5
+  - first:
+      213: -5336268180317264538
+    second: MarabuntaQueen_DeathSS_6
+  - first:
+      213: -6030640226411775908
+    second: MarabuntaQueen_DeathSS_7
+  - first:
+      213: 341026136330988922
+    second: MarabuntaQueen_DeathSS_8
+  - first:
+      213: 9100615782189572790
+    second: MarabuntaQueen_DeathSS_9
+  - first:
+      213: -6911988664210052749
+    second: MarabuntaQueen_DeathSS_10
+  - first:
+      213: -7441589488637325387
+    second: MarabuntaQueen_DeathSS_11
+  - first:
+      213: 455839681090687667
+    second: MarabuntaQueen_DeathSS_12
+  - first:
+      213: 1526143666357585362
+    second: MarabuntaQueen_DeathSS_13
+  - first:
+      213: 6337675807001322837
+    second: MarabuntaQueen_DeathSS_14
+  - first:
+      213: 3303684850888783937
+    second: MarabuntaQueen_DeathSS_15
+  - first:
+      213: -6276277097101005246
+    second: MarabuntaQueen_DeathSS_16
+  - first:
+      213: -4820134897366961214
+    second: MarabuntaQueen_DeathSS_17
+  - first:
+      213: -2705931027163779966
+    second: MarabuntaQueen_DeathSS_18
+  - first:
+      213: 7501315139093765743
+    second: MarabuntaQueen_DeathSS_19
+  - first:
+      213: 5757327085223008448
+    second: MarabuntaQueen_DeathSS_20
+  - first:
+      213: -6064678061394717977
+    second: MarabuntaQueen_DeathSS_21
+  - first:
+      213: -8006939716869159199
+    second: MarabuntaQueen_DeathSS_22
+  - first:
+      213: -37802324570275361
+    second: MarabuntaQueen_DeathSS_23
+  - first:
+      213: -4933770610479494301
+    second: MarabuntaQueen_DeathSS_24
+  - first:
+      213: 9027127936511745592
+    second: MarabuntaQueen_DeathSS_25
+  - first:
+      213: 2003115411725914369
+    second: MarabuntaQueen_DeathSS_26
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 380
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14190
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c490d0e5241627a46bae1ac29e47b5bf
+      internalID: 915034469353614745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_1
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 14190
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020f37eaef0eba143a5602eb4c0b7364
+      internalID: 3209265954145021045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_2
+      rect:
+        serializedVersion: 2
+        x: 4124
+        y: 14190
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc5ef334792157429822b1225082e08
+      internalID: -4181205809457509171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_3
+      rect:
+        serializedVersion: 2
+        x: 6186
+        y: 14190
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4969066f0542349a315d369452a6f1
+      internalID: -7469581731966732038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_4
+      rect:
+        serializedVersion: 2
+        x: 8248
+        y: 14190
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ce3e6ae5e77dc4484134cf5584f766
+      internalID: -5977248287086783769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_5
+      rect:
+        serializedVersion: 2
+        x: 10310
+        y: 14190
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f981e244face9c41ace7bc03095f0ec
+      internalID: 211854155909252952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_6
+      rect:
+        serializedVersion: 2
+        x: 12372
+        y: 14190
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa718f4895300bc4bb5b3c2b123de70c
+      internalID: -5336268180317264538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11996
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91af87635a69f543b50ab67205dc8ba
+      internalID: -6030640226411775908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_8
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 11996
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f952f0db6afc6fa4c84eb91009733253
+      internalID: 341026136330988922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_9
+      rect:
+        serializedVersion: 2
+        x: 4124
+        y: 11996
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b542293c23ba907448573ae5e2f1ff5d
+      internalID: 9100615782189572790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_10
+      rect:
+        serializedVersion: 2
+        x: 6186
+        y: 11996
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd47f9f55b596d458560fbc9afd4e3a
+      internalID: -6911988664210052749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_11
+      rect:
+        serializedVersion: 2
+        x: 8248
+        y: 11996
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a47ae6d3b859c428b9e54aa1228518
+      internalID: -7441589488637325387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_12
+      rect:
+        serializedVersion: 2
+        x: 10310
+        y: 11996
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4529e2f8d8e219043acd0baa7fded4bd
+      internalID: 455839681090687667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_13
+      rect:
+        serializedVersion: 2
+        x: 12372
+        y: 11996
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dbc31d8d429bd4d8210b25e084f256
+      internalID: 1526143666357585362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9802
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e837dc2e50330d04a8fd41b07b731bc2
+      internalID: 6337675807001322837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_15
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 9802
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18601cfb009868b4bab73cddd6a460de
+      internalID: 3303684850888783937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_16
+      rect:
+        serializedVersion: 2
+        x: 4124
+        y: 9802
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd63a175fa142324486204428acc89ea
+      internalID: -6276277097101005246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_17
+      rect:
+        serializedVersion: 2
+        x: 6186
+        y: 9802
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c196bdf3a747df840be9416e3481ece2
+      internalID: -4820134897366961214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_18
+      rect:
+        serializedVersion: 2
+        x: 8248
+        y: 9802
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb3bc8b5f5190649b2afb2cd08d92ca
+      internalID: -2705931027163779966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_19
+      rect:
+        serializedVersion: 2
+        x: 10310
+        y: 9802
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad71b38153a1a134c951c9bb179007ac
+      internalID: 7501315139093765743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_20
+      rect:
+        serializedVersion: 2
+        x: 12372
+        y: 9802
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c4c74f0a2beac40b050377312da0b3
+      internalID: 5757327085223008448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7608
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f7bec4787915c41afd195194574966
+      internalID: -6064678061394717977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_22
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 7608
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75718febb672b894e94c1cbafa97d4d8
+      internalID: -8006939716869159199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_23
+      rect:
+        serializedVersion: 2
+        x: 4124
+        y: 7608
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5c70edb41213e48be06f06e2997e2d
+      internalID: -37802324570275361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_24
+      rect:
+        serializedVersion: 2
+        x: 6186
+        y: 7608
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089e051384ca137418d27de4229262ce
+      internalID: -4933770610479494301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_25
+      rect:
+        serializedVersion: 2
+        x: 8248
+        y: 7608
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80f08823f043e64ba209d96f77fa0c8
+      internalID: 9027127936511745592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_DeathSS_26
+      rect:
+        serializedVersion: 2
+        x: 10310
+        y: 7608
+        width: 2062
+        height: 2194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4328df1ff05ae141bc0e12e2ca63413
+      internalID: 2003115411725914369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 128cd39bbc3503041b279df140e30fad, type: 3}
+  m_Name: TopoDaMontanha
+  m_EditorClassIdentifier: 
+  Condition: 
+  linesEN: []
+  linesBR:
+  - CharacterName: Nasreen Kianian
+    DialogText: "L\xE1! Aquela coisa marrom no fundo \xE9 o formigueiro das t\xE9rmitas.\r"
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: "Hmm... \xC9 um pouco longe, n\xE3o tem um lugar mais alto que seja
+      mais perto?\r"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "N\xE3o, acho que n\xE3o. Esta montanha \xE9 a mais alta daqui. E
+      mais pra cima \xE9 proibido passar, tem um port\xE3o enorme.\r"
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: "Ent\xE3o, vou tentar analisar onde estamos daqui mesmo, apesar de
+      n\xE3o ter mudado muito pois ainda me sinto bem longe do c\xE9u.\r"
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: '... Hmmmmmmm ...'
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: "Hmm... \xC9 t\xE3o longe que sinto estarmos debaixo do ch\xE3o...
+      N\xE3o sei.\r"
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: "\xC9 estranho, porque n\xE3o \xE9 o que parece... Mas me sinto realmente
+      muito, muito distante. \xC9 a \xFAnica interpreta\xE7\xE3o que consigo ter.\r"
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: "... Mas... Mas, ent\xE3o... Como eu cheguei aqui?\r"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "O que voc\xEA quer dizer com debaixo do ch\xE3o? N\xE3o estou entendendo
+      nada.\r"
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: "\xC9, que estou sentindo que estamos soterrados, muito longe do c\xE9u.
+      Mas, n\xE3o se preocupe em entender isto agora, nem eu estou entendendo.\r"
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: "Mas, s\xF3 para ter certeza, estamos na Terra, certo?\r"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Terra? \xC9 Torre!, n\xE3o Terra! Errou uma palavra!.\r"
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: "Torre? Hmm, mas... Se \xE9 uma torre... Como me sinto t\xE3o longe
+      do c\xE9u? Aai... Parece que vamos ter mais problemas do que eu imaginava para
+      subirmos pro c\xE9u."
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Isso \xE9 bom, n\xE3o \xE9? Assim... Se demorar mais, podemos ficar
+      mais tempo juntos e a aventura vai ser mais divertido! ... N\xE9?\r"
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: "Espero que sim, senhorita, mas n\xE3o sei dizer ao exato.\r"
+    voice: {fileID: 0}

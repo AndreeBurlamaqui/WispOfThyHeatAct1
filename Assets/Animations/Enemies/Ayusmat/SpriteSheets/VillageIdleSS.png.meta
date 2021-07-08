@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 6c10ea8c876ea5746b7262455a7426ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8509622008898153727
+    second: VillageIdleSS_0
+  - first:
+      213: 6825898296262513434
+    second: VillageIdleSS_1
+  - first:
+      213: -3146132055612216869
+    second: VillageIdleSS_2
+  - first:
+      213: -5071987872393989435
+    second: VillageIdleSS_3
+  - first:
+      213: -9118622601449182431
+    second: VillageIdleSS_4
+  - first:
+      213: 5302931251414092373
+    second: VillageIdleSS_5
+  - first:
+      213: -9130212818351900249
+    second: VillageIdleSS_6
+  - first:
+      213: -7470364986018587778
+    second: VillageIdleSS_7
+  - first:
+      213: -843490301984090035
+    second: VillageIdleSS_8
+  - first:
+      213: 1729397897905083702
+    second: VillageIdleSS_9
+  - first:
+      213: -3523273377484763164
+    second: VillageIdleSS_10
+  - first:
+      213: -5386926762129071517
+    second: VillageIdleSS_11
+  - first:
+      213: 9184460101134727769
+    second: VillageIdleSS_12
+  - first:
+      213: -3042630265329857903
+    second: VillageIdleSS_13
+  - first:
+      213: 5184711361391495295
+    second: VillageIdleSS_14
+  - first:
+      213: -6410832982820522571
+    second: VillageIdleSS_15
+  - first:
+      213: -4060345856835039267
+    second: VillageIdleSS_16
+  - first:
+      213: 7187454482047717300
+    second: VillageIdleSS_17
+  - first:
+      213: -3041022223550869894
+    second: VillageIdleSS_18
+  - first:
+      213: 326828522789593286
+    second: VillageIdleSS_19
+  - first:
+      213: 8362484404998308817
+    second: VillageIdleSS_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VillageIdleSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0896881d6617d4daefaac17062f97f
+      internalID: -8509622008898153727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_1
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 4000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b19da0fe7dae1f43923f0f3658e7516
+      internalID: 6825898296262513434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_2
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 4000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ff6dda083b4a2468b29beb3ce4d779
+      internalID: -3146132055612216869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_3
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 4000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700a3b2277f3cbe4fab0906c6fb97345
+      internalID: -5071987872393989435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_4
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 4000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d387a93a787c0409cda41776be2b01
+      internalID: -9118622601449182431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_5
+      rect:
+        serializedVersion: 2
+        x: 9140
+        y: 4000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533b2755e68346c45a51b22d31e9f00e
+      internalID: 5302931251414092373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_6
+      rect:
+        serializedVersion: 2
+        x: 10968
+        y: 4000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db159cb2d22cefc43be21aaf8ee98add
+      internalID: -9130212818351900249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca2acf100c1db840b86338984d0d298
+      internalID: -7470364986018587778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_8
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 2000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c437fcff0ea97fc45a36178868835bdf
+      internalID: -843490301984090035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_9
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 2000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81edbd6fc608b164c867284967c4e319
+      internalID: 1729397897905083702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_10
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 2000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ea5a923137596449d39615c851c6d9
+      internalID: -3523273377484763164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_11
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 2000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada4116db66d0e94f99679a303b48300
+      internalID: -5386926762129071517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_12
+      rect:
+        serializedVersion: 2
+        x: 9140
+        y: 2000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0a3e577a9ba7b4590a5db1652e4b96
+      internalID: 9184460101134727769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_13
+      rect:
+        serializedVersion: 2
+        x: 10968
+        y: 2000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37313ae8f0c318f4d87d12aef45191b2
+      internalID: -3042630265329857903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ed45449b56f794d8e3ccb976711ece
+      internalID: 5184711361391495295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_15
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 0
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32879cd8c8e1fb478638c8715da087b
+      internalID: -6410832982820522571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_16
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 0
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7ee3a1509e8c547bf5a8e58db73e15
+      internalID: -4060345856835039267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_17
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 0
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44874faa461726a43895db2a0cd41c43
+      internalID: 7187454482047717300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_18
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 0
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b72843c92f51b4b9d10f32d56e54c5
+      internalID: -3041022223550869894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_19
+      rect:
+        serializedVersion: 2
+        x: 9140
+        y: 0
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f5bca413681db47ad62b6cb4f5c3a5
+      internalID: 326828522789593286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIdleSS_20
+      rect:
+        serializedVersion: 2
+        x: 10968
+        y: 0
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e997a0157757e4f9fdcfc23a6a0a0e
+      internalID: 8362484404998308817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

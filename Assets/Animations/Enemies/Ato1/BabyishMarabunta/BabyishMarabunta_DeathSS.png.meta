@@ -1,0 +1,1255 @@
+fileFormatVersion: 2
+guid: eea8451abd3b5104d979f16140ce6653
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4272824776059554335
+    second: BabyishMarabunta_DeathSS_0
+  - first:
+      213: -2538345790076224312
+    second: BabyishMarabunta_DeathSS_1
+  - first:
+      213: 5274065657942234486
+    second: BabyishMarabunta_DeathSS_2
+  - first:
+      213: 4630546353134421387
+    second: BabyishMarabunta_DeathSS_3
+  - first:
+      213: -6942975308735896823
+    second: BabyishMarabunta_DeathSS_4
+  - first:
+      213: 4430343190145329555
+    second: BabyishMarabunta_DeathSS_5
+  - first:
+      213: -8651603293730610126
+    second: BabyishMarabunta_DeathSS_6
+  - first:
+      213: -7344260780217118365
+    second: BabyishMarabunta_DeathSS_7
+  - first:
+      213: -6449943672920373188
+    second: BabyishMarabunta_DeathSS_8
+  - first:
+      213: 926265739053391993
+    second: BabyishMarabunta_DeathSS_9
+  - first:
+      213: 2483143883982598007
+    second: BabyishMarabunta_DeathSS_10
+  - first:
+      213: -983501961596248813
+    second: BabyishMarabunta_DeathSS_11
+  - first:
+      213: 300322354663319795
+    second: BabyishMarabunta_DeathSS_12
+  - first:
+      213: -7106672642873016859
+    second: BabyishMarabunta_DeathSS_13
+  - first:
+      213: 6524641669927580945
+    second: BabyishMarabunta_DeathSS_14
+  - first:
+      213: -3345373990517794060
+    second: BabyishMarabunta_DeathSS_15
+  - first:
+      213: -8480202459625211609
+    second: BabyishMarabunta_DeathSS_16
+  - first:
+      213: 5254689710488991947
+    second: BabyishMarabunta_DeathSS_17
+  - first:
+      213: 7574268115968773032
+    second: BabyishMarabunta_DeathSS_18
+  - first:
+      213: -3771989706225280738
+    second: BabyishMarabunta_DeathSS_19
+  - first:
+      213: -8427555777595432006
+    second: BabyishMarabunta_DeathSS_20
+  - first:
+      213: 3776870219209962676
+    second: BabyishMarabunta_DeathSS_21
+  - first:
+      213: -3220791102824994970
+    second: BabyishMarabunta_DeathSS_22
+  - first:
+      213: -6071878272011751651
+    second: BabyishMarabunta_DeathSS_23
+  - first:
+      213: -6977950588128585001
+    second: BabyishMarabunta_DeathSS_24
+  - first:
+      213: 793604076806711251
+    second: BabyishMarabunta_DeathSS_25
+  - first:
+      213: 4232139772145970611
+    second: BabyishMarabunta_DeathSS_26
+  - first:
+      213: -993928916067556638
+    second: BabyishMarabunta_DeathSS_27
+  - first:
+      213: 3707491431186506558
+    second: BabyishMarabunta_DeathSS_28
+  - first:
+      213: -4338592183417611213
+    second: BabyishMarabunta_DeathSS_29
+  - first:
+      213: -4478544255815428418
+    second: BabyishMarabunta_DeathSS_30
+  - first:
+      213: -7088965330622568817
+    second: BabyishMarabunta_DeathSS_31
+  - first:
+      213: -7426634931356250664
+    second: BabyishMarabunta_DeathSS_32
+  - first:
+      213: 3973149489158752865
+    second: BabyishMarabunta_DeathSS_33
+  - first:
+      213: 7687483502425835515
+    second: BabyishMarabunta_DeathSS_34
+  - first:
+      213: 3443940618372939033
+    second: BabyishMarabunta_DeathSS_35
+  - first:
+      213: -606002810985390857
+    second: BabyishMarabunta_DeathSS_36
+  - first:
+      213: 6460719776999541430
+    second: BabyishMarabunta_DeathSS_37
+  - first:
+      213: -573690448899232916
+    second: BabyishMarabunta_DeathSS_38
+  - first:
+      213: -5320171112060655661
+    second: BabyishMarabunta_DeathSS_39
+  - first:
+      213: -5785993743802091837
+    second: BabyishMarabunta_DeathSS_40
+  - first:
+      213: -37670581852476779
+    second: BabyishMarabunta_DeathSS_41
+  - first:
+      213: -3148536826206200117
+    second: BabyishMarabunta_DeathSS_42
+  - first:
+      213: -614915420609376498
+    second: BabyishMarabunta_DeathSS_43
+  - first:
+      213: 6055964116510055554
+    second: BabyishMarabunta_DeathSS_44
+  - first:
+      213: 242072144409620862
+    second: BabyishMarabunta_DeathSS_45
+  - first:
+      213: 8481364399030317718
+    second: BabyishMarabunta_DeathSS_46
+  - first:
+      213: -3138846066807385184
+    second: BabyishMarabunta_DeathSS_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 280
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7092
+        width: 948
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a0542465f943e488b924f5515511d9
+      internalID: 4272824776059554335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_1
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 7092
+        width: 816
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64d25d089f35a54ab148b8eddc11600
+      internalID: -2538345790076224312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_2
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 7140
+        width: 576
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab03292c9a0e1844e8d5167144a17f95
+      internalID: 5274065657942234486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_3
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 7276
+        width: 344
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035874540f54b37449c91ec7b925df24
+      internalID: 4630546353134421387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_4
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 7348
+        width: 632
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8232fbedb1f6bdd4f941ddc9629280af
+      internalID: -6942975308735896823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_5
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 7444
+        width: 840
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429489a88ed0ba64585be41e28967b7a
+      internalID: 4430343190145329555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_6
+      rect:
+        serializedVersion: 2
+        x: 6532
+        y: 7460
+        width: 776
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da1207e8f166dd4ea95715861b4e63e
+      internalID: -8651603293730610126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_7
+      rect:
+        serializedVersion: 2
+        x: 7636
+        y: 7244
+        width: 904
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b2a54dec3f94846a4800e9f0e23c4a
+      internalID: -7344260780217118365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_8
+      rect:
+        serializedVersion: 2
+        x: 8732
+        y: 6996
+        width: 944
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239352f46531d124f93109b3a0973d52
+      internalID: -6449943672920373188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_9
+      rect:
+        serializedVersion: 2
+        x: 9820
+        y: 7052
+        width: 912
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cf387f156d9004a8db331f048a8d37
+      internalID: 926265739053391993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_10
+      rect:
+        serializedVersion: 2
+        x: 10916
+        y: 7076
+        width: 880
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44782971eadd084ab7eb429243aeaa8
+      internalID: 2483143883982598007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_11
+      rect:
+        serializedVersion: 2
+        x: 14132
+        y: 7044
+        width: 920
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc85a4fa62919747b79661ab7d9b118
+      internalID: -983501961596248813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_12
+      rect:
+        serializedVersion: 2
+        x: 12012
+        y: 7092
+        width: 864
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503e4a85237fbb64b9c945314cfe5346
+      internalID: 300322354663319795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_13
+      rect:
+        serializedVersion: 2
+        x: 13060
+        y: 7061
+        width: 904
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88777a8134e245745b1161b163dccd47
+      internalID: -7106672642873016859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_14
+      rect:
+        serializedVersion: 2
+        x: 16380
+        y: 7356
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc866f1c8ca94ca419511a556d88c28f
+      internalID: 6524641669927580945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_15
+      rect:
+        serializedVersion: 2
+        x: 15204
+        y: 7052
+        width: 920
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c081c968309b94fba241e2275183fa
+      internalID: -3345373990517794060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5877
+        width: 896
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2717f7228bda1964a96b1dc0a5d7d924
+      internalID: -8480202459625211609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_17
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 5900
+        width: 855
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063be4f088b4b184b9956f423af787b7
+      internalID: 5254689710488991947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_18
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 5836
+        width: 904
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848c0fdece1461b44b302cf285ecc4c9
+      internalID: 7574268115968773032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_19
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 5868
+        width: 816
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7293f71adb925244f9f0cd1ab25b28ca
+      internalID: -3771989706225280738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_20
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 5900
+        width: 760
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b59ca5308b7e4da36962e3e811995
+      internalID: -8427555777595432006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_21
+      rect:
+        serializedVersion: 2
+        x: 5564
+        y: 5868
+        width: 888
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aa86e36b6b4c04a915bca6144c45ef
+      internalID: 3776870219209962676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_22
+      rect:
+        serializedVersion: 2
+        x: 6644
+        y: 5884
+        width: 864
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9473e3ea7bbe3c940bcbfc4ec653b8ff
+      internalID: -3220791102824994970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_23
+      rect:
+        serializedVersion: 2
+        x: 7716
+        y: 5892
+        width: 864
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ae778c0f1679a45ae564fef95f00cf
+      internalID: -6071878272011751651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_24
+      rect:
+        serializedVersion: 2
+        x: 8788
+        y: 5900
+        width: 856
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70448d9cb21a68b488d86b546ff1a1e9
+      internalID: -6977950588128585001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_25
+      rect:
+        serializedVersion: 2
+        x: 9868
+        y: 5900
+        width: 848
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e2958968e264f4980c2bba8d6dd9b3
+      internalID: 793604076806711251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_26
+      rect:
+        serializedVersion: 2
+        x: 10924
+        y: 5892
+        width: 872
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc67520dddc05304bbc2f7a4054bc07d
+      internalID: 4232139772145970611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_27
+      rect:
+        serializedVersion: 2
+        x: 11980
+        y: 5868
+        width: 888
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eda0796c5ba9114196148049a8d3fca
+      internalID: -993928916067556638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_28
+      rect:
+        serializedVersion: 2
+        x: 13044
+        y: 5852
+        width: 904
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dd6af713fe8d14084963f20b91334d
+      internalID: 3707491431186506558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_29
+      rect:
+        serializedVersion: 2
+        x: 14108
+        y: 5836
+        width: 912
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32d9f411017051458125e7a74eebaff
+      internalID: -4338592183417611213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_30
+      rect:
+        serializedVersion: 2
+        x: 15188
+        y: 5844
+        width: 904
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e719d93e7c6ce479bfefd9dfcbbaa5
+      internalID: -4478544255815428418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4652
+        width: 896
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f309d3a4c91544a83550b8528dbf46
+      internalID: -7088965330622568817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_32
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 4652
+        width: 896
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3135572426dd7e643880e7d16eb56752
+      internalID: -7426634931356250664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_33
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 4652
+        width: 888
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dc403dcdc53c441ace29d70de38f7c
+      internalID: 3973149489158752865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_34
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 4660
+        width: 872
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05721b5b4f5cba244a5fbf7bdb6dc72a
+      internalID: 7687483502425835515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_35
+      rect:
+        serializedVersion: 2
+        x: 4444
+        y: 4660
+        width: 864
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e8a669d3da159439c3764d9cd914f4
+      internalID: 3443940618372939033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_36
+      rect:
+        serializedVersion: 2
+        x: 5524
+        y: 4668
+        width: 856
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e6c6bc6dbdd414eb29815fa6ea8f77
+      internalID: -606002810985390857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_37
+      rect:
+        serializedVersion: 2
+        x: 6604
+        y: 4668
+        width: 840
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09f5493929016144ae91002931ebe2e
+      internalID: 6460719776999541430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_38
+      rect:
+        serializedVersion: 2
+        x: 7684
+        y: 4676
+        width: 824
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63009888c06b664ab636db601dcf14f
+      internalID: -573690448899232916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_39
+      rect:
+        serializedVersion: 2
+        x: 8756
+        y: 4676
+        width: 812
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92657c703e759794c84a9872f1236cf5
+      internalID: -5320171112060655661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_40
+      rect:
+        serializedVersion: 2
+        x: 9836
+        y: 4684
+        width: 800
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64027e9f3e8cda143891c2a95709c31a
+      internalID: -5785993743802091837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_41
+      rect:
+        serializedVersion: 2
+        x: 10916
+        y: 4684
+        width: 800
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6a67e885030ae4db71f51c2bd605d9
+      internalID: -37670581852476779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_42
+      rect:
+        serializedVersion: 2
+        x: 11996
+        y: 4692
+        width: 792
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc88e177804d3d4ba928d0fc7373b03
+      internalID: -3148536826206200117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_43
+      rect:
+        serializedVersion: 2
+        x: 13076
+        y: 4692
+        width: 784
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259727f3519903e4b9d286555324ad89
+      internalID: -614915420609376498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_44
+      rect:
+        serializedVersion: 2
+        x: 14156
+        y: 4700
+        width: 776
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ed00e3db0470c42b772b1d0870dfed
+      internalID: 6055964116510055554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_45
+      rect:
+        serializedVersion: 2
+        x: 15236
+        y: 4708
+        width: 775
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e120419786432041860b288a6f21fb0
+      internalID: 242072144409620862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_46
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3508
+        width: 768
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca3d9860730be141af64f959c55a032
+      internalID: 8481364399030317718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyishMarabunta_DeathSS_47
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3509
+        width: 760
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2653fc28f29b1ff4fa5357198f18ff4f
+      internalID: -3138846066807385184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

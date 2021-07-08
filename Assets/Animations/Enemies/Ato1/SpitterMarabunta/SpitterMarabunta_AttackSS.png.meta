@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: 0c757085a291b6647b6f5a33f47251c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 659772815200573915
+    second: SpitterMarabunta_AttackSS_0
+  - first:
+      213: -1731896356537527080
+    second: SpitterMarabunta_AttackSS_1
+  - first:
+      213: -8486645622279315611
+    second: SpitterMarabunta_AttackSS_2
+  - first:
+      213: 3293613307048676788
+    second: SpitterMarabunta_AttackSS_3
+  - first:
+      213: -2463721630181036413
+    second: SpitterMarabunta_AttackSS_4
+  - first:
+      213: 732334432785338293
+    second: SpitterMarabunta_AttackSS_5
+  - first:
+      213: -5096089463924481428
+    second: SpitterMarabunta_AttackSS_6
+  - first:
+      213: 2158593216002012556
+    second: SpitterMarabunta_AttackSS_7
+  - first:
+      213: -8913261087379128668
+    second: SpitterMarabunta_AttackSS_8
+  - first:
+      213: -6704036080156131838
+    second: SpitterMarabunta_AttackSS_9
+  - first:
+      213: 6369996131956398288
+    second: SpitterMarabunta_AttackSS_10
+  - first:
+      213: 3821087621715382716
+    second: SpitterMarabunta_AttackSS_11
+  - first:
+      213: 5568058342915710243
+    second: SpitterMarabunta_AttackSS_12
+  - first:
+      213: 510059226546806072
+    second: SpitterMarabunta_AttackSS_13
+  - first:
+      213: 713323577943833558
+    second: SpitterMarabunta_AttackSS_14
+  - first:
+      213: -4469423314415715348
+    second: SpitterMarabunta_AttackSS_15
+  - first:
+      213: 324441453159672619
+    second: SpitterMarabunta_AttackSS_16
+  - first:
+      213: 2374976156369848597
+    second: SpitterMarabunta_AttackSS_17
+  - first:
+      213: 5394312299455293910
+    second: SpitterMarabunta_AttackSS_18
+  - first:
+      213: 1340555638146920020
+    second: SpitterMarabunta_AttackSS_19
+  - first:
+      213: -6305873069010356026
+    second: SpitterMarabunta_AttackSS_20
+  - first:
+      213: 6685729075668959456
+    second: SpitterMarabunta_AttackSS_21
+  - first:
+      213: -1279184928403441530
+    second: SpitterMarabunta_AttackSS_22
+  - first:
+      213: -7864061276197148380
+    second: SpitterMarabunta_AttackSS_23
+  - first:
+      213: -523736109997253357
+    second: SpitterMarabunta_AttackSS_24
+  - first:
+      213: -1589446096325020767
+    second: SpitterMarabunta_AttackSS_25
+  - first:
+      213: 870159130154505146
+    second: SpitterMarabunta_AttackSS_26
+  - first:
+      213: 8879983303205052771
+    second: SpitterMarabunta_AttackSS_27
+  - first:
+      213: 5911862593096930495
+    second: SpitterMarabunta_AttackSS_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3534
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d224b20c7d3b047bd8ebbff772a758
+      internalID: 659772815200573915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_1
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 3534
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78ecc09e41e9444194b30cd0d6da480
+      internalID: -1731896356537527080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_2
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 3534
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb01eef23d500947ae91bda778b5fa3
+      internalID: -8486645622279315611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_3
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 3534
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b93db017965264294bfe8928ed5c79
+      internalID: 3293613307048676788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_4
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 3534
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92da61eeb4a48f847987ad01d005024e
+      internalID: -2463721630181036413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_5
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 3534
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff84f500ce514a45ae3355b53cc2705
+      internalID: 732334432785338293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_6
+      rect:
+        serializedVersion: 2
+        x: 5922
+        y: 3534
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0115707300f8d0643aeb5dee0c7ddd11
+      internalID: -5096089463924481428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_7
+      rect:
+        serializedVersion: 2
+        x: 6909
+        y: 3534
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a99b328702de74d9c6b79aa1a838ac
+      internalID: 2158593216002012556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2972
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25da2251dbfbf4d4aba9b7fc97663d46
+      internalID: -8913261087379128668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_9
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 2972
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf1648edfd17574ca44a42f967976f2
+      internalID: -6704036080156131838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_10
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2972
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ae5b934ce58f146bae25a9694b6de3
+      internalID: 6369996131956398288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_11
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 2972
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f488484be7cce144af51277cfcafea8
+      internalID: 3821087621715382716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_12
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 2972
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4421a8340ca22104fb1eefed871c0d0e
+      internalID: 5568058342915710243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_13
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 2972
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254a4b1c8fc705243ad8548975f1b166
+      internalID: 510059226546806072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_14
+      rect:
+        serializedVersion: 2
+        x: 5922
+        y: 2972
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2296c2512c51f4d8671fc6c89a55ca
+      internalID: 713323577943833558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_15
+      rect:
+        serializedVersion: 2
+        x: 6909
+        y: 2972
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efdb61053eaecf4588d0cc964654546
+      internalID: -4469423314415715348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2410
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4161ff72878128641a7e9a16bc490ccc
+      internalID: 324441453159672619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_17
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 2410
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db956615e5b0dd440ae7ec641b2dc278
+      internalID: 2374976156369848597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_18
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2410
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cab05200fe38d4c976aa29aa544bc8
+      internalID: 5394312299455293910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_19
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 2410
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35d544f04a1db547a2db45f313b0eb8
+      internalID: 1340555638146920020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_20
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 2410
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd115f223a1140048a315859adea75cf
+      internalID: -6305873069010356026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_21
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 2410
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50b62deaeace9445a6b62d139bc622f
+      internalID: 6685729075668959456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_22
+      rect:
+        serializedVersion: 2
+        x: 5922
+        y: 2410
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb91d7c7293b86542b5156ba9cd01fcd
+      internalID: -1279184928403441530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_23
+      rect:
+        serializedVersion: 2
+        x: 6909
+        y: 2410
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f212d24dd4f1d24dbb51b85c14a1f0d
+      internalID: -7864061276197148380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a206a1ebaeb58e74d8c90318a9c617c7
+      internalID: -523736109997253357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_25
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1848
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3d65e5169b9a040b5e8e34308944f0
+      internalID: -1589446096325020767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_26
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1848
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaed67e82fd5c4498d5a2c92c66e443
+      internalID: 870159130154505146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_27
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 1848
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbce84a37a09304aaf1ea3fe2bb7a88
+      internalID: 8879983303205052771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_AttackSS_28
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 1848
+        width: 987
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd17d95c435d415498c7812383637937
+      internalID: 5911862593096930495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

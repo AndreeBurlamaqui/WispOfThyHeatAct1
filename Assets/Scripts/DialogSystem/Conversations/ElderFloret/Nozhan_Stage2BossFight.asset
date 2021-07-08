@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 128cd39bbc3503041b279df140e30fad, type: 3}
+  m_Name: Nozhan_Stage2BossFight
+  m_EditorClassIdentifier: 
+  Condition: 0
+  linesEN:
+  - CharacterName: 
+    DialogText: 
+    voice: {fileID: 0}
+  - CharacterName: 
+    DialogText: 
+    voice: {fileID: 0}
+  - CharacterName: 
+    DialogText: 
+    voice: {fileID: 0}
+  linesBR:
+  - CharacterName: "Anci\xE3o Ayusmat"
+    DialogText: "Mithra, por favor, seja respons\xE1vel por suas a\xE7\xF5es. Aja
+      da sua forma sem levar outros \xE0 ru\xEDna, tenha maturidade..."
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: "Sim, tenho completa no\xE7\xE3o da minha responsabilidade, por\xE9m,
+      as chances de nossa falha, que antes eram enormes, agora s\xE3o m\xEDnimas.
+      Nasreen j\xE1 disse, h\xE1 ajuda."
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: "Temo ter que dizer a ti sem conhecer-te apropriadamente, mas em
+      minha vis\xE3o, voc\xEA quem est\xE1 agindo irresponsavelmente."
+    voice: {fileID: 0}

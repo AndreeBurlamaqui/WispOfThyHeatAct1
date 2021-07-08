@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 90885160f8d9abb47beda3c3fe77252d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6166710448218179804
+    second: VillageTalkSS_0
+  - first:
+      213: 4313484416902320975
+    second: VillageTalkSS_1
+  - first:
+      213: -194700475763937806
+    second: VillageTalkSS_2
+  - first:
+      213: -4707487767409083007
+    second: VillageTalkSS_3
+  - first:
+      213: -120289861017022826
+    second: VillageTalkSS_4
+  - first:
+      213: 1574028114255441289
+    second: VillageTalkSS_5
+  - first:
+      213: 6547923618700061295
+    second: VillageTalkSS_6
+  - first:
+      213: 8405753091107819970
+    second: VillageTalkSS_7
+  - first:
+      213: -1757963604866408436
+    second: VillageTalkSS_8
+  - first:
+      213: 2426044844551673296
+    second: VillageTalkSS_9
+  - first:
+      213: 6935269773093260316
+    second: VillageTalkSS_10
+  - first:
+      213: 4745769511702822849
+    second: VillageTalkSS_11
+  - first:
+      213: 4317362251182775041
+    second: VillageTalkSS_12
+  - first:
+      213: 4292836701643622974
+    second: VillageTalkSS_13
+  - first:
+      213: -9012039037885096106
+    second: VillageTalkSS_14
+  - first:
+      213: -1913425612384520932
+    second: VillageTalkSS_15
+  - first:
+      213: 931370491257744510
+    second: VillageTalkSS_16
+  - first:
+      213: -7777713865076535493
+    second: VillageTalkSS_17
+  - first:
+      213: -4371128301475912345
+    second: VillageTalkSS_18
+  - first:
+      213: 8211143648416398134
+    second: VillageTalkSS_19
+  - first:
+      213: -426289703596502725
+    second: VillageTalkSS_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VillageTalkSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063b8f3fba6de154996d63669dccfb04
+      internalID: -6166710448218179804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_1
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 4000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce7425f18f46a3409d712a472abbfbf
+      internalID: 4313484416902320975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_2
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 4000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeceb1f6139408429a196a268fb69c8
+      internalID: -194700475763937806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_3
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 4000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9e895d6aff0e94b97547905169a431
+      internalID: -4707487767409083007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_4
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 4000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf3ccb6620d13140abe1233fa6cc869
+      internalID: -120289861017022826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_5
+      rect:
+        serializedVersion: 2
+        x: 9140
+        y: 4000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af68def435ebf544b0e8762d8a9542e
+      internalID: 1574028114255441289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_6
+      rect:
+        serializedVersion: 2
+        x: 10968
+        y: 4000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200d5821be309954c88b239ab6423c22
+      internalID: 6547923618700061295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa487e004858e344bf9a42bd18438fa
+      internalID: 8405753091107819970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_8
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 2000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d470f3d5dd23dc44aba50dd54da40d4b
+      internalID: -1757963604866408436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_9
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 2000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9d65ec89ee9b14f9b8ac236907f825
+      internalID: 2426044844551673296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_10
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 2000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecd2ca8a093e7b44b152066b41fee7d
+      internalID: 6935269773093260316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_11
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 2000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c5214cfab2dcb4bbf5bb67c1a4f612
+      internalID: 4745769511702822849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_12
+      rect:
+        serializedVersion: 2
+        x: 9140
+        y: 2000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253dbd60e1e26b2448c8d5d272f73d34
+      internalID: 4317362251182775041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_13
+      rect:
+        serializedVersion: 2
+        x: 10968
+        y: 2000
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d14f7ddbc6f51b46903c27a48c481bc
+      internalID: 4292836701643622974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a755766af573b4c9844ca918c053d2
+      internalID: -9012039037885096106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_15
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 0
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178f20b968c84c34091bafd9065502b8
+      internalID: -1913425612384520932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_16
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 0
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7fb77e36645564ebe9137c51e4b933
+      internalID: 931370491257744510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_17
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 0
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96b9bcb2e617d94b8bd25f657f45332
+      internalID: -7777713865076535493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_18
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 0
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612e49b1f2429aa4f975beb34fb0590e
+      internalID: -4371128301475912345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_19
+      rect:
+        serializedVersion: 2
+        x: 9140
+        y: 0
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87e967fb85563d479813c0024fe5d61
+      internalID: 8211143648416398134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageTalkSS_20
+      rect:
+        serializedVersion: 2
+        x: 10968
+        y: 0
+        width: 1828.5714
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985453cfe20b75c46bec41c99a3d958f
+      internalID: -426289703596502725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

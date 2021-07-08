@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: 8cf78c74e759d7843a8495f50924b805
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3704163261901142379
+    second: Idle_ChattingSS_0
+  - first:
+      213: -7293336816771448558
+    second: Idle_ChattingSS_1
+  - first:
+      213: -7383264480230193715
+    second: Idle_ChattingSS_2
+  - first:
+      213: -2936357810146123686
+    second: Idle_ChattingSS_3
+  - first:
+      213: 6096319791691226078
+    second: Idle_ChattingSS_4
+  - first:
+      213: 1254977082697622306
+    second: Idle_ChattingSS_5
+  - first:
+      213: -4801000062969737771
+    second: Idle_ChattingSS_6
+  - first:
+      213: 1561121916124828235
+    second: Idle_ChattingSS_7
+  - first:
+      213: 3995160960461406006
+    second: Idle_ChattingSS_8
+  - first:
+      213: 3318935266505112678
+    second: Idle_ChattingSS_9
+  - first:
+      213: -4993809265796552090
+    second: Idle_ChattingSS_10
+  - first:
+      213: -865128583361655840
+    second: Idle_ChattingSS_11
+  - first:
+      213: -2395593488505405178
+    second: Idle_ChattingSS_12
+  - first:
+      213: 6274782716529819114
+    second: Idle_ChattingSS_13
+  - first:
+      213: 697395555183466423
+    second: Idle_ChattingSS_14
+  - first:
+      213: -2842529879635137862
+    second: Idle_ChattingSS_15
+  - first:
+      213: -5901064146985373730
+    second: Idle_ChattingSS_16
+  - first:
+      213: -8490636330043487239
+    second: Idle_ChattingSS_17
+  - first:
+      213: -2989856083107601351
+    second: Idle_ChattingSS_18
+  - first:
+      213: 3111815980929463699
+    second: Idle_ChattingSS_19
+  - first:
+      213: -6304064517417892415
+    second: Idle_ChattingSS_20
+  - first:
+      213: -4114618163088942611
+    second: Idle_ChattingSS_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_ChattingSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2808
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ad03a956c71ad49ab65cb0eb008050
+      internalID: 3704163261901142379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_1
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2808
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b90a3493e0797548bd0b53defdb2556
+      internalID: -7293336816771448558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_2
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2808
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d0c777b81cffb4c9cc025827d4461f
+      internalID: -7383264480230193715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_3
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 2808
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525c2fb41157de84087c9dc297ac69bf
+      internalID: -2936357810146123686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_4
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 2808
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fadc6ef2503bf468ead215b4f531bf
+      internalID: 6096319791691226078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_5
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 2808
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d8b7f52184cfd478b25fc8d693a6d3
+      internalID: 1254977082697622306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_6
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 2808
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cc8eaea4ebe624290f80de6d8c54de
+      internalID: -4801000062969737771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_7
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 2808
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe651b4fadb6e3b479e661954e7e1e31
+      internalID: 1561121916124828235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8796a86d7e362bc458cf1b036450934d
+      internalID: 3995160960461406006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_9
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1520
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207e609e86a18cc458b1de2aa1a12b80
+      internalID: 3318935266505112678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_10
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1520
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1184370c8df8d4789d402ae4fc3238
+      internalID: -4993809265796552090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_11
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 1520
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397acac86c25c864da0eff42b2f16b33
+      internalID: -865128583361655840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_12
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 1520
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80d81bb240380848bc110f20ffce159
+      internalID: -2395593488505405178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_13
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 1520
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96c08abc221fbf4e898441d4cd1d9a5
+      internalID: 6274782716529819114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_14
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 1520
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e798099f2052e78469e3282107eb4c52
+      internalID: 697395555183466423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_15
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 1520
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff37ad6730054419ef91ae5e9f8c07
+      internalID: -2842529879635137862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e551b7c77e2884e96777db251c030e
+      internalID: -5901064146985373730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_17
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 232
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baa2bc6cae67f04994cd1ec4e873f6b
+      internalID: -8490636330043487239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_18
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 232
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781338fcf3f8da34a8aa5ce53fc52ae7
+      internalID: -2989856083107601351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_19
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 232
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38583b87b0a71eb4a8f31cd79ce79efd
+      internalID: 3111815980929463699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_ChattingSS_20
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 226
+        width: 928
+        height: 1288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac855daf9710c264da93837a5190a250
+      internalID: -6304064517417892415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

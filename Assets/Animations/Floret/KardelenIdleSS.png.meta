@@ -1,0 +1,829 @@
+fileFormatVersion: 2
+guid: 438d80de5ce07084f9d6387ee79ad500
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3748139043259577818
+    second: KardelenIdleSS_0
+  - first:
+      213: 2097246482342813160
+    second: KardelenIdleSS_1
+  - first:
+      213: 6466513584510537845
+    second: KardelenIdleSS_2
+  - first:
+      213: -7861337085966796460
+    second: KardelenIdleSS_3
+  - first:
+      213: -2861197935892756261
+    second: KardelenIdleSS_4
+  - first:
+      213: -7542874826097094137
+    second: KardelenIdleSS_5
+  - first:
+      213: 1082095197979583600
+    second: KardelenIdleSS_6
+  - first:
+      213: 5874682033222858281
+    second: KardelenIdleSS_7
+  - first:
+      213: -788170011952857148
+    second: KardelenIdleSS_8
+  - first:
+      213: 6301520297405432388
+    second: KardelenIdleSS_9
+  - first:
+      213: -1162714321750484400
+    second: KardelenIdleSS_10
+  - first:
+      213: -1801993969505318900
+    second: KardelenIdleSS_11
+  - first:
+      213: -6387422760105879587
+    second: KardelenIdleSS_12
+  - first:
+      213: -5840822678209593185
+    second: KardelenIdleSS_13
+  - first:
+      213: -3101829942365553405
+    second: KardelenIdleSS_14
+  - first:
+      213: 4018929922501852983
+    second: KardelenIdleSS_15
+  - first:
+      213: -7464644177680615476
+    second: KardelenIdleSS_16
+  - first:
+      213: 7620687847081466186
+    second: KardelenIdleSS_17
+  - first:
+      213: -8808062946323231807
+    second: KardelenIdleSS_18
+  - first:
+      213: -4305402382585564763
+    second: KardelenIdleSS_19
+  - first:
+      213: -6359277907076442157
+    second: KardelenIdleSS_20
+  - first:
+      213: 6553474492891534691
+    second: KardelenIdleSS_21
+  - first:
+      213: -3126074589402621218
+    second: KardelenIdleSS_22
+  - first:
+      213: 6903286630215955838
+    second: KardelenIdleSS_23
+  - first:
+      213: -9125702271035536518
+    second: KardelenIdleSS_24
+  - first:
+      213: -119336216243503680
+    second: KardelenIdleSS_25
+  - first:
+      213: 7578061274598014639
+    second: KardelenIdleSS_26
+  - first:
+      213: 1517861674098315716
+    second: KardelenIdleSS_27
+  - first:
+      213: 9091456362608468811
+    second: KardelenIdleSS_28
+  - first:
+      213: -8094848930649573262
+    second: KardelenIdleSS_29
+  - first:
+      213: -609174805861552178
+    second: KardelenIdleSS_30
+  - first:
+      213: 4649071383971102522
+    second: KardelenIdleSS_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KardelenIdleSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6723
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbd27ad40fd6e143b402758ba8e3024
+      internalID: -3748139043259577818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_1
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 6723
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72802ae81b672b448148fffcbe16969
+      internalID: 2097246482342813160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_2
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 6723
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a9388ee37d6954190d3fbf34b308ae
+      internalID: 6466513584510537845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_3
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 6723
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d1ba7aeda66cc41a97ed09304a9052
+      internalID: -7861337085966796460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_4
+      rect:
+        serializedVersion: 2
+        x: 5276
+        y: 6723
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9e83cffa77aca4db2f600035ff492c
+      internalID: -2861197935892756261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_5
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 6723
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148caf075bf853d49a6f9bc5e5b7ab42
+      internalID: -7542874826097094137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5046
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620310301be18f14a98c9c6978c8c96c
+      internalID: 1082095197979583600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_7
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 5046
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb39797c3ab373449f7fbe4a784e0e8
+      internalID: 5874682033222858281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_8
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 5046
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8d93e65d6814d418a4626a8c7235d3
+      internalID: -788170011952857148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_9
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 5046
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17af637f8c9012b48be35870f92d9f98
+      internalID: 6301520297405432388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_10
+      rect:
+        serializedVersion: 2
+        x: 5276
+        y: 5046
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ded48bb848de0458bef14ebd5e4288
+      internalID: -1162714321750484400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_11
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 5046
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e812654f2459f4b8a4a12f07f35c4e
+      internalID: -1801993969505318900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3369
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bc0a4201a50794daef68e2175aa380
+      internalID: -6387422760105879587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_13
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 3369
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3c743108ec0bd40baec8697e0fff66
+      internalID: -5840822678209593185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_14
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 3369
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4afbd4869d705469714b5755f4146d
+      internalID: -3101829942365553405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_15
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 3369
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da274b3419cd0e84e8be100716a3af25
+      internalID: 4018929922501852983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_16
+      rect:
+        serializedVersion: 2
+        x: 5276
+        y: 3369
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9251ed77fcd79e64690eba54a4043110
+      internalID: -7464644177680615476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_17
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 3369
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b12008b2806fe84fb5b3179c43bd73b
+      internalID: 7620687847081466186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1692
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526afcb766266cd458211a05727d3c83
+      internalID: -8808062946323231807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_19
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1692
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4097671d40c5eb341a5731a012558fca
+      internalID: -4305402382585564763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_20
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 1692
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52e3aa539b13344e8d119131fc51521
+      internalID: -6359277907076442157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_21
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 1692
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cac95e9035af184a8958bef632d25fd
+      internalID: 6553474492891534691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_22
+      rect:
+        serializedVersion: 2
+        x: 5276
+        y: 1692
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeac04dc36d801c42a8a75d1ac91a703
+      internalID: -3126074589402621218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_23
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 1692
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635906464fbb3a64ebefe4f8c18246bb
+      internalID: 6903286630215955838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e856e54c67644d54093606f68ea4183d
+      internalID: -9125702271035536518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_25
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 15
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c9195f453d2f34fa34bbedca464640
+      internalID: -119336216243503680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_26
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 15
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc456f6941d0f94095899e27aac20de
+      internalID: 7578061274598014639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_27
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 15
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08e479ae9463d645b9fa8360592a566
+      internalID: 1517861674098315716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_28
+      rect:
+        serializedVersion: 2
+        x: 5276
+        y: 15
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153aea84f7c91404eb9d40c89440f9d5
+      internalID: 9091456362608468811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KardelenIdleSS_29
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 15
+        width: 1319
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2af81c3ed933184fab983566608835b
+      internalID: -8094848930649573262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

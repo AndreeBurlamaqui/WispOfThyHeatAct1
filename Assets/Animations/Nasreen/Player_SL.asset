@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Player_SL
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Pescoco
+    m_Hash: -1590189470
+    m_CategoryList:
+    - m_Name: Pes_Idle
+      m_Hash: -2094158417
+      m_Sprite: {fileID: 2995902971184714807, guid: 4cced351c1e1bc94abe365a0cabd798d,
+        type: 3}
+    - m_Name: Pes_Run
+      m_Hash: 1558583033
+      m_Sprite: {fileID: -1479294512351311308, guid: 25be008ea0d0e52438b74f9811c281b1,
+        type: 3}
+  - m_Name: Corpo
+    m_Hash: 527666128
+    m_CategoryList:
+    - m_Name: Corpo_Idle
+      m_Hash: 158596292
+      m_Sprite: {fileID: 1199004651140855196, guid: 4cced351c1e1bc94abe365a0cabd798d,
+        type: 3}
+    - m_Name: Corpo_Run
+      m_Hash: 1736348130
+      m_Sprite: {fileID: 7102626333830470822, guid: 25be008ea0d0e52438b74f9811c281b1,
+        type: 3}

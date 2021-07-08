@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: 6f481a0f4f597bd48a82f717ba959728
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2854736896494146061
+    second: Floating_IdleSS_0
+  - first:
+      213: 1328032718365057564
+    second: Floating_IdleSS_1
+  - first:
+      213: 1015879221663179189
+    second: Floating_IdleSS_2
+  - first:
+      213: -759419818817586611
+    second: Floating_IdleSS_3
+  - first:
+      213: -2327656859117333873
+    second: Floating_IdleSS_4
+  - first:
+      213: -6771270932103719552
+    second: Floating_IdleSS_5
+  - first:
+      213: 6358138254341578100
+    second: Floating_IdleSS_6
+  - first:
+      213: 8003658392274346088
+    second: Floating_IdleSS_7
+  - first:
+      213: -8884448825242514043
+    second: Floating_IdleSS_8
+  - first:
+      213: -2896927271602326908
+    second: Floating_IdleSS_9
+  - first:
+      213: -1315601380264832370
+    second: Floating_IdleSS_10
+  - first:
+      213: 6282852447260713673
+    second: Floating_IdleSS_11
+  - first:
+      213: 1429578226587902539
+    second: Floating_IdleSS_12
+  - first:
+      213: 4053421309707474473
+    second: Floating_IdleSS_13
+  - first:
+      213: -7581050903495824607
+    second: Floating_IdleSS_14
+  - first:
+      213: -1060629922369833617
+    second: Floating_IdleSS_15
+  - first:
+      213: -4743926118557932432
+    second: Floating_IdleSS_16
+  - first:
+      213: 1080872693853340299
+    second: Floating_IdleSS_17
+  - first:
+      213: 962022097053711968
+    second: Floating_IdleSS_18
+  - first:
+      213: -8470024246515071236
+    second: Floating_IdleSS_19
+  - first:
+      213: 7011154636301655962
+    second: Floating_IdleSS_20
+  - first:
+      213: 4953359875776585893
+    second: Floating_IdleSS_21
+  - first:
+      213: -178842504659432485
+    second: Floating_IdleSS_22
+  - first:
+      213: 1921959796755957668
+    second: Floating_IdleSS_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floating_IdleSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5958
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d9c9a31c8259c49bdb8e48bd47c79a
+      internalID: -2854736896494146061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_1
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 5958
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a20cd9692061d4cb82ef6deef57113
+      internalID: 1328032718365057564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_2
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 5958
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3cac2d59f1d914bbc551733d0515e8
+      internalID: 1015879221663179189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_3
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 5958
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2cfbbcb002ca348bdb758f79badd0c
+      internalID: -759419818817586611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_4
+      rect:
+        serializedVersion: 2
+        x: 6032
+        y: 5958
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567f9850e5ba3f046803ade6fe1d6bef
+      internalID: -2327656859117333873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_5
+      rect:
+        serializedVersion: 2
+        x: 7540
+        y: 5958
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130eab18170d5c7499857e7d38f64b15
+      internalID: -6771270932103719552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3972
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739be7f94c60b4c4bb5f5a8cc23b4ece
+      internalID: 6358138254341578100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_7
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 3972
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dab72b4b201ee4588993aed0e1f984
+      internalID: 8003658392274346088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_8
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 3972
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f7cf4d85c9c67418294291f62eec68
+      internalID: -8884448825242514043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_9
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 3972
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc4e990fbf9a08429002cb7070000d4
+      internalID: -2896927271602326908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_10
+      rect:
+        serializedVersion: 2
+        x: 6032
+        y: 3972
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827c9f7d3db89346ac53ca5ef0c0027
+      internalID: -1315601380264832370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_11
+      rect:
+        serializedVersion: 2
+        x: 7540
+        y: 3972
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65397fa3a7840fa4baa6451d27e6fc72
+      internalID: 6282852447260713673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1986
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88623a77c31dc9844aa5ebffab57630c
+      internalID: 1429578226587902539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_13
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1986
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fc0a01fd11fec428d0e537b983a65f
+      internalID: 4053421309707474473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_14
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 1986
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e27debb00c722a42b5652ed56a764b1
+      internalID: -7581050903495824607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_15
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 1986
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150e111910921a44984cf015fd2d394b
+      internalID: -1060629922369833617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_16
+      rect:
+        serializedVersion: 2
+        x: 6032
+        y: 1986
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73975d5976ab21046a36ed40cc3d65bc
+      internalID: -4743926118557932432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_17
+      rect:
+        serializedVersion: 2
+        x: 7540
+        y: 1986
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e441c51d04f5e4db7b6bd862845b09
+      internalID: 1080872693853340299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc2dc1528e9aca43ace6c92fae4190b
+      internalID: 962022097053711968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_19
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 0
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdd69ceab1b7794e9d4fe87c9e5c9e6
+      internalID: -8470024246515071236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_IdleSS_20
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 0
+        width: 1508
+        height: 1986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a2e579b709d8249a3f88168c8a3a29
+      internalID: 7011154636301655962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

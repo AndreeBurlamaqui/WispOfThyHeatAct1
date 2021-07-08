@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 128cd39bbc3503041b279df140e30fad, type: 3}
+  m_Name: ConversaAteMontanha_Pt2
+  m_EditorClassIdentifier: 
+  Condition: 
+  linesEN: []
+  linesBR:
+  - CharacterName: Nasreen Kianian
+    DialogText: "J\xE1 sei! Mithra! Esse vai ser teu nome! Mithra!\r"
+    voice: {fileID: 0}
+  - CharacterName: "O Fogo-f\xE1tuo"
+    DialogText: "Mithra? Acho que j\xE1 ouvi esse nome antes, \xE9 algu\xE9m conhecido?"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "\xC9 de uma lenda que... Que eu n\xE3o lembro muito bem... Sou muito
+      ruim de mem\xF3ria, principalmente quando se trata dos folclores da minha fam\xEDlia.
+      \xC9 muita coisa!\r"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Mas... Pelo que eu me lembre, combina bastante com as coisas que
+      voc\xEA diz, porque na minha tribo, quando prometemos algo a s\xE9rio, dizemos
+      que \xE9 pelo nome dele. Ele \xE9 o Deus do Juramento!\r"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Mas, o que eu me lembro \xE9 que ele foi um guerreiro. N\xE3o. Um
+      rei. Isso. um Rei.\r"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Ele levava bastante a s\xE9rio os juramentos que fazia com o povo
+      de seu reino. E todos os respeitavam por isto..."
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "N\xE3o lembro bem o que acontece na hist\xF3ria dele, eu... Eu normalmente
+      n\xE3o ficava at\xE9 o final da aula!\r"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Mas, eu sei que nunca teve uma promessa que ele n\xE3o cumpriu! Ent\xE3o
+      quando juramos algo, dizemos que \xE9 em nome dele, em respeito \xE0 sua hist\xF3ria."
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Tipo, e eu prometo por Mithra que irei te ajudar! Ent\xE3o acho que
+      \xE9 o melhor nome para ti!\r"
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: "Hmm... \xC9, acho que n\xE3o \xE9 quem eu achei que tinha visto.
+      \xC9 um pouco diferente a hist\xF3ria.\r"
+    voice: {fileID: 0}
+  - CharacterName: Mithra
+    DialogText: "Mas, achei um bom nome! Interessante e consigo simpatizar com ele.
+      Vou ficar!\r"
+    voice: {fileID: 0}

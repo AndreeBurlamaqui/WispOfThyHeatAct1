@@ -1,0 +1,991 @@
+fileFormatVersion: 2
+guid: d12581a3147ad2f43ae1462337d7b5bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 13438419992335093
+    second: MarabuntaQueen_IdleSS_0
+  - first:
+      213: 7854964073464630042
+    second: MarabuntaQueen_IdleSS_1
+  - first:
+      213: -8821888373080709755
+    second: MarabuntaQueen_IdleSS_2
+  - first:
+      213: -2904930296258595067
+    second: MarabuntaQueen_IdleSS_3
+  - first:
+      213: -7620853751632443710
+    second: MarabuntaQueen_IdleSS_4
+  - first:
+      213: 5152380189866391260
+    second: MarabuntaQueen_IdleSS_5
+  - first:
+      213: 2721134332949575248
+    second: MarabuntaQueen_IdleSS_6
+  - first:
+      213: -3600291661438795409
+    second: MarabuntaQueen_IdleSS_7
+  - first:
+      213: 1043443486147736627
+    second: MarabuntaQueen_IdleSS_8
+  - first:
+      213: -3868889985291652131
+    second: MarabuntaQueen_IdleSS_9
+  - first:
+      213: -741654303129556623
+    second: MarabuntaQueen_IdleSS_10
+  - first:
+      213: 1936661009078670636
+    second: MarabuntaQueen_IdleSS_11
+  - first:
+      213: 3618657135306407563
+    second: MarabuntaQueen_IdleSS_12
+  - first:
+      213: 8384055845402574876
+    second: MarabuntaQueen_IdleSS_13
+  - first:
+      213: -264391752149250482
+    second: MarabuntaQueen_IdleSS_14
+  - first:
+      213: -7461104151089916095
+    second: MarabuntaQueen_IdleSS_15
+  - first:
+      213: -3912494615418612970
+    second: MarabuntaQueen_IdleSS_16
+  - first:
+      213: 692915534114650031
+    second: MarabuntaQueen_IdleSS_17
+  - first:
+      213: 6465547354300998028
+    second: MarabuntaQueen_IdleSS_18
+  - first:
+      213: 3287144668895886392
+    second: MarabuntaQueen_IdleSS_19
+  - first:
+      213: 1352164480384760028
+    second: MarabuntaQueen_IdleSS_20
+  - first:
+      213: 4576301668497867583
+    second: MarabuntaQueen_IdleSS_21
+  - first:
+      213: -8815279816140815203
+    second: MarabuntaQueen_IdleSS_22
+  - first:
+      213: 5009524325399898934
+    second: MarabuntaQueen_IdleSS_23
+  - first:
+      213: 7099192487261342629
+    second: MarabuntaQueen_IdleSS_24
+  - first:
+      213: 8093922223080911043
+    second: MarabuntaQueen_IdleSS_25
+  - first:
+      213: 2728771365678225856
+    second: MarabuntaQueen_IdleSS_26
+  - first:
+      213: 7589977437065667038
+    second: MarabuntaQueen_IdleSS_27
+  - first:
+      213: -4315054216160593894
+    second: MarabuntaQueen_IdleSS_28
+  - first:
+      213: 4365118332475588029
+    second: MarabuntaQueen_IdleSS_29
+  - first:
+      213: -7978928677905163921
+    second: MarabuntaQueen_IdleSS_30
+  - first:
+      213: -575443345887220816
+    second: MarabuntaQueen_IdleSS_31
+  - first:
+      213: -6052684673241406080
+    second: MarabuntaQueen_IdleSS_32
+  - first:
+      213: -3509063882909166437
+    second: MarabuntaQueen_IdleSS_33
+  - first:
+      213: -5412530602384684143
+    second: MarabuntaQueen_IdleSS_34
+  - first:
+      213: -4596874512323054418
+    second: MarabuntaQueen_IdleSS_35
+  - first:
+      213: -1729907443561861341
+    second: MarabuntaQueen_IdleSS_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 380
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14874
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01413dfc14800f94ba3e8abd705b1532
+      internalID: 13438419992335093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_1
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 14874
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecb52343e8df9b4f82fb76d5aee2952
+      internalID: 7854964073464630042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_2
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 14874
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3f4aa5c69fa86419ca4658b5f09954
+      internalID: -8821888373080709755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_3
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 14874
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d37238e7959f34ca04fc1f474c4b7e
+      internalID: -2904930296258595067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13364
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadc885ccbd21b54abe119ba9978879c
+      internalID: -7620853751632443710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_5
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 13364
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bb417c1d1401d40a2d593929f07906
+      internalID: 5152380189866391260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_6
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 13364
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b6e3c348cb2ce469c97b522aaf57e9
+      internalID: 2721134332949575248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_7
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 13364
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda475e70ee1a2b48a2be4fb30e2438b
+      internalID: -3600291661438795409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11854
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaa1741a1afce54eb17dbede1f5bc84
+      internalID: 1043443486147736627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_9
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 11854
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e93b7f9295915c4ea5fcd9b3ab01d0c
+      internalID: -3868889985291652131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_10
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 11854
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2525a8ab215cb714684a990503e97b26
+      internalID: -741654303129556623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_11
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 11854
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8525c58da49064999bfac00e7eee3f
+      internalID: 1936661009078670636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10344
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2afe148623139c4c95adf107aeee2a9
+      internalID: 3618657135306407563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_13
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 10344
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ebeb38c69cf8146b7e5c949780609b
+      internalID: 8384055845402574876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_14
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 10344
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a208c2f131f0467469222408242e1197
+      internalID: -264391752149250482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_15
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 10344
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0730965c6bc73ba4f9e7613f2ae4610c
+      internalID: -7461104151089916095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8834
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cb297d67c042b43852de4926638681
+      internalID: -3912494615418612970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_17
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 8834
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475061114bb073246832d035e75d701f
+      internalID: 692915534114650031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_18
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 8834
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e401023295190934f88993c31ddec113
+      internalID: 6465547354300998028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_19
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 8834
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c634cf1186f6cc44aa151113e34fcd1
+      internalID: 3287144668895886392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7324
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbd0fdc047618740a6acbc1c34093e6
+      internalID: 1352164480384760028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_21
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 7324
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3b74f84aa67de4db5bc68348e0e5ac
+      internalID: 4576301668497867583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_22
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 7324
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637c9cec889dfd54c97df4057640fccb
+      internalID: -8815279816140815203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_23
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 7324
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b5be26dd90b7648a9a80926330935f
+      internalID: 5009524325399898934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5814
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c73a4e5985c69c41ac4426171f89a53
+      internalID: 7099192487261342629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_25
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 5814
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b123753d1631d59408509c2fe8aa7350
+      internalID: 8093922223080911043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_26
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 5814
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b27cceb893b554c8af7203b1a3074a
+      internalID: 2728771365678225856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_27
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 5814
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c7bdec9a9db7943a7fec8185535326
+      internalID: 7589977437065667038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4304
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d7532f4bea82440aa32e8c13da7d26
+      internalID: -4315054216160593894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_29
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 4304
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dc2bc6224b21c4ea37fdaae80e8f27
+      internalID: 4365118332475588029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_30
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 4304
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212c3eee67951a343a63e4be91d22680
+      internalID: -7978928677905163921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_31
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 4304
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407e5af67f88f694e88c2e26b7c9f67a
+      internalID: -575443345887220816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2794
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1c509652513c74dbf870435657af52
+      internalID: -6052684673241406080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_33
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 2794
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe0f709428f25845b8b569dbf463556
+      internalID: -3509063882909166437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_34
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 2794
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881f436e4e1405247b3b113fab281516
+      internalID: -5412530602384684143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_35
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 2794
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a073b975588d649bdd69231d0a37b8
+      internalID: -4596874512323054418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarabuntaQueen_IdleSS_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 1965
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18707aa0f50441c479a98a5642c7826f
+      internalID: -1729907443561861341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 128cd39bbc3503041b279df140e30fad, type: 3}
+  m_Name: Nozhan_Stage1BossFight
+  m_EditorClassIdentifier: 
+  Condition: 0
+  linesEN: []
+  linesBR:
+  - CharacterName: "Anci\xE3o Ayusmat"
+    DialogText: "Nasreen... Suas asas nem sequer cresceram e voc\xEA... Voc\xEA j\xE1
+      est\xE1 querendo voar al\xE9m dos limites que precisamos aceitar que existem..."
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Eu tenho pessoas me ajudando, senhor, porque voc\xEA n\xE3o pode
+      ser um deles tamb\xE9m?! Se todo mundo se ajudar, a gente consegue! At\xE9
+      eu sei disso!"
+    voice: {fileID: 0}

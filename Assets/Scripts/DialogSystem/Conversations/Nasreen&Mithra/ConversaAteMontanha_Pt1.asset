@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 128cd39bbc3503041b279df140e30fad, type: 3}
+  m_Name: ConversaAteMontanha_Pt1
+  m_EditorClassIdentifier: 
+  Condition: 
+  linesEN: []
+  linesBR:
+  - CharacterName: Nasreen Kianian
+    DialogText: "Senhor, voc\xEA tem um nome?"
+    voice: {fileID: 0}
+  - CharacterName: "O Fogo-f\xE1tuo"
+    DialogText: "N\xF3s normalmente n\xE3o nos nomeamos.\r"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Nossa, e como voc\xEAs se comunicam? Se voc\xEA chama um, todos olham?!\r"
+    voice: {fileID: 0}
+  - CharacterName: "O Fogo-f\xE1tuo"
+    DialogText: "N\xE3o, n\xE3o, a verdade \xE9 que n\xF3s n\xE3o somos muito comunicativos.
+      Normalmente falamos apenas com os nossos contraente..."
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Contraente? Que nome esquisito.\r"
+    voice: {fileID: 0}
+  - CharacterName: "O fogo-f\xE1tuo"
+    DialogText: "\xC9 realmente esquisito, mas \xE9 simples. Eu e voc\xEA somos contraentes,
+      porque n\xF3s dois participamos de um contrato. No nosso caso a amizade, entende?\r"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Aaaah! Entendi, mas n\xE3o acho que vou lembrar da palavra daqui
+      um tempo.\r.."
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "... Ent\xE3o... Senhor... Posso te dar um nome?\r"
+    voice: {fileID: 0}
+  - CharacterName: "O FOGO-F\xC1TUO "
+    DialogText: "Oras, por que n\xE3o? Parece divertido, qual vai ser?\r"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Hmmmmm\u2026Que tal Will? N\xE3o, n\xE3o, \xE9 muito comum, n\xE3o
+      gosto de coisas comuns..."
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Luca? N\xE3o, tamb\xE9m n\xE3o \xE9 nada impactante. Preciso que
+      seja t\xE3o impactante quanto a forma que nos conhecemos!\r"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Ai ai ai, eu n\xE3o sou muito boa em nomes, por que fui dar essa
+      ideia? Vou tentar pensar em algo impactante..."
+    voice: {fileID: 0}

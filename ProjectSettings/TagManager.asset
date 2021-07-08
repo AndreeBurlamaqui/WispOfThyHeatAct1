@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RoomManager
+  - GameManager
+  - Interactive
+  - Enemy
+  - Mithra
+  - DialogueUI
+  - Spikes
+  - Boss
+  - MithraBullet
+  - Global
+  - CameraHolder
+  - TerrainMaterial/Grass
+  - TerrainMaterial/Stone
+  - NGSpawn
+  - TerrainMaterial/Wood
+  - GlobalLight
+  - NextSceneHolder
+  - UnsafeArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GroundWalls
+  - Player
+  - Light
+  - Enemy
+  - EnemyDeath
+  - 
+  - 
+  - PostProcessing
+  - BoundCam
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundFading3
+    uniqueID: 3342345557
+    locked: 0
+  - name: BackgroundFading2
+    uniqueID: 3674561125
+    locked: 0
+  - name: BackgroundFading1
+    uniqueID: 1872156913
+    locked: 0
+  - name: Background
+    uniqueID: 3901872235
+    locked: 0
+  - name: Player
+    uniqueID: 2431188163
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DefaultDetail
+    uniqueID: 3268941125
+    locked: 0
+  - name: Foreground
+    uniqueID: 3298314451
+    locked: 0
+  - name: Foredark
+    uniqueID: 2886347471
+    locked: 0
+  - name: HPHUD
+    uniqueID: 891042983
+    locked: 0

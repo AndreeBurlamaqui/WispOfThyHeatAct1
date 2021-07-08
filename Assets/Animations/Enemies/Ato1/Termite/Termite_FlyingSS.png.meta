@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 9202e03906c58c74abd46a2db203b4d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3284393930790656004
+    second: Termite_FlyingSS_0
+  - first:
+      213: -3566778813759096988
+    second: Termite_FlyingSS_1
+  - first:
+      213: -8869524878036820543
+    second: Termite_FlyingSS_2
+  - first:
+      213: -1809458414935357173
+    second: Termite_FlyingSS_3
+  - first:
+      213: 7344572009076571824
+    second: Termite_FlyingSS_4
+  - first:
+      213: 4233589923416596310
+    second: Termite_FlyingSS_5
+  - first:
+      213: 8703389756535019844
+    second: Termite_FlyingSS_6
+  - first:
+      213: 5165195776324982573
+    second: Termite_FlyingSS_7
+  - first:
+      213: 3210821894529868327
+    second: Termite_FlyingSS_8
+  - first:
+      213: 7975715095797408664
+    second: Termite_FlyingSS_9
+  - first:
+      213: -1215712523708104967
+    second: Termite_FlyingSS_10
+  - first:
+      213: 4359250472092061410
+    second: Termite_FlyingSS_11
+  - first:
+      213: 8116446952175244944
+    second: Termite_FlyingSS_12
+  - first:
+      213: 7389469541906054413
+    second: Termite_FlyingSS_13
+  - first:
+      213: -383416888526645298
+    second: Termite_FlyingSS_14
+  - first:
+      213: 2505623235118026020
+    second: Termite_FlyingSS_15
+  - first:
+      213: 5344978569723768392
+    second: Termite_FlyingSS_16
+  - first:
+      213: 4851056076506871943
+    second: Termite_FlyingSS_17
+  - first:
+      213: -558173740847889997
+    second: Termite_FlyingSS_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 385
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Termite_FlyingSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13934
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7f2e8812b2f594c8ef3d5fd9102449
+      internalID: -3284393930790656004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_1
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 13934
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de2096afc6d0a4a9cfc5dd28599d60
+      internalID: -3566778813759096988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_2
+      rect:
+        serializedVersion: 2
+        x: 5614
+        y: 13934
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1e9a874b99c584da7b49dca6202b23
+      internalID: -8869524878036820543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_3
+      rect:
+        serializedVersion: 2
+        x: 8421
+        y: 13934
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56389bcd236a4ac498c6c6fad51f78c3
+      internalID: -1809458414935357173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_4
+      rect:
+        serializedVersion: 2
+        x: 11228
+        y: 13934
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ea84f481577db4f93805aec713d9cf
+      internalID: 7344572009076571824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11484
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65182e5eea383f041830e58128760514
+      internalID: 4233589923416596310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_6
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 11484
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81a24bc721813f4daea109de5f3607b
+      internalID: 8703389756535019844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_7
+      rect:
+        serializedVersion: 2
+        x: 5614
+        y: 11484
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7af89647f4e94408ae31990fdc4fa5
+      internalID: 5165195776324982573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_8
+      rect:
+        serializedVersion: 2
+        x: 8421
+        y: 11484
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443853a1a1c9b6a40a1c83ca144ee8e5
+      internalID: 3210821894529868327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_9
+      rect:
+        serializedVersion: 2
+        x: 11228
+        y: 11484
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24de9851cd33fd45b861409f9aeab89
+      internalID: 7975715095797408664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9034
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debdbef6888133d4ba2b7029ba1d92e0
+      internalID: -1215712523708104967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_11
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 9034
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcc6a05b6ea06842910784269c68b9c
+      internalID: 4359250472092061410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_12
+      rect:
+        serializedVersion: 2
+        x: 5614
+        y: 9034
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5032fd2bbd2c4944e97ab85d85721a26
+      internalID: 8116446952175244944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_13
+      rect:
+        serializedVersion: 2
+        x: 8421
+        y: 9034
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fbdd0d16597f74298f5cab70c9861f
+      internalID: 7389469541906054413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_14
+      rect:
+        serializedVersion: 2
+        x: 11228
+        y: 9034
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309b9535f310ae5449a788426a6970a7
+      internalID: -383416888526645298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6584
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63c84e08df9d6e41bee16cad24c2be9
+      internalID: 2505623235118026020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_16
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 6584
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f238a7f04f046a4aa4449ebcf7f04dc
+      internalID: 5344978569723768392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_17
+      rect:
+        serializedVersion: 2
+        x: 5614
+        y: 6584
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a064711789070a84297bfce137ee5b6d
+      internalID: 4851056076506871943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Termite_FlyingSS_18
+      rect:
+        serializedVersion: 2
+        x: 8421
+        y: 6584
+        width: 2807
+        height: 2450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c6a1dde2fb3e946bbd12c5e5b7dfeb
+      internalID: -558173740847889997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

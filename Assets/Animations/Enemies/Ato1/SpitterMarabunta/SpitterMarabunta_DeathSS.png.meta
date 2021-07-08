@@ -1,0 +1,1231 @@
+fileFormatVersion: 2
+guid: 16cce9dd6095a9d4fa1a161dc08f16d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4050521960855311703
+    second: SpitterMarabunta_DeathSS_0
+  - first:
+      213: -424148221352869295
+    second: SpitterMarabunta_DeathSS_1
+  - first:
+      213: 5822599018031156184
+    second: SpitterMarabunta_DeathSS_2
+  - first:
+      213: -8292458923192110683
+    second: SpitterMarabunta_DeathSS_3
+  - first:
+      213: -8422894031988220279
+    second: SpitterMarabunta_DeathSS_4
+  - first:
+      213: 304991198328516381
+    second: SpitterMarabunta_DeathSS_5
+  - first:
+      213: -1397487835751198394
+    second: SpitterMarabunta_DeathSS_6
+  - first:
+      213: 8647626439163920880
+    second: SpitterMarabunta_DeathSS_7
+  - first:
+      213: 5174183571974242180
+    second: SpitterMarabunta_DeathSS_8
+  - first:
+      213: 3277010378770792846
+    second: SpitterMarabunta_DeathSS_9
+  - first:
+      213: 5771801706195268955
+    second: SpitterMarabunta_DeathSS_10
+  - first:
+      213: 5360349927255001029
+    second: SpitterMarabunta_DeathSS_11
+  - first:
+      213: 7625166692009691388
+    second: SpitterMarabunta_DeathSS_12
+  - first:
+      213: -561212658964672080
+    second: SpitterMarabunta_DeathSS_13
+  - first:
+      213: 438187760191188840
+    second: SpitterMarabunta_DeathSS_14
+  - first:
+      213: 9162059161163524670
+    second: SpitterMarabunta_DeathSS_15
+  - first:
+      213: 6807078284582192544
+    second: SpitterMarabunta_DeathSS_16
+  - first:
+      213: -2314983039620000810
+    second: SpitterMarabunta_DeathSS_17
+  - first:
+      213: -7656991733083382088
+    second: SpitterMarabunta_DeathSS_18
+  - first:
+      213: 6195862630756596706
+    second: SpitterMarabunta_DeathSS_19
+  - first:
+      213: -3284454190085319972
+    second: SpitterMarabunta_DeathSS_20
+  - first:
+      213: -3914795600244237690
+    second: SpitterMarabunta_DeathSS_21
+  - first:
+      213: -2071476573390041047
+    second: SpitterMarabunta_DeathSS_22
+  - first:
+      213: 7875650891769288813
+    second: SpitterMarabunta_DeathSS_23
+  - first:
+      213: 3964323517642546527
+    second: SpitterMarabunta_DeathSS_24
+  - first:
+      213: 3280163407889454482
+    second: SpitterMarabunta_DeathSS_25
+  - first:
+      213: 7070684337922769882
+    second: SpitterMarabunta_DeathSS_26
+  - first:
+      213: 3000120740797648948
+    second: SpitterMarabunta_DeathSS_27
+  - first:
+      213: -6896737574787951110
+    second: SpitterMarabunta_DeathSS_28
+  - first:
+      213: -3536804814432830897
+    second: SpitterMarabunta_DeathSS_29
+  - first:
+      213: -8305709330805190821
+    second: SpitterMarabunta_DeathSS_30
+  - first:
+      213: -6300739296751855543
+    second: SpitterMarabunta_DeathSS_31
+  - first:
+      213: 1982608438748485240
+    second: SpitterMarabunta_DeathSS_32
+  - first:
+      213: 6048366674153435543
+    second: SpitterMarabunta_DeathSS_33
+  - first:
+      213: 5512015741411470558
+    second: SpitterMarabunta_DeathSS_34
+  - first:
+      213: -4574372363734651091
+    second: SpitterMarabunta_DeathSS_35
+  - first:
+      213: 6350479937420148841
+    second: SpitterMarabunta_DeathSS_36
+  - first:
+      213: 8744183628180191836
+    second: SpitterMarabunta_DeathSS_37
+  - first:
+      213: 7763530629074480584
+    second: SpitterMarabunta_DeathSS_38
+  - first:
+      213: 2209585730086612679
+    second: SpitterMarabunta_DeathSS_39
+  - first:
+      213: -1321596929498064592
+    second: SpitterMarabunta_DeathSS_40
+  - first:
+      213: -6770318196897633974
+    second: SpitterMarabunta_DeathSS_41
+  - first:
+      213: -5084187281333307037
+    second: SpitterMarabunta_DeathSS_42
+  - first:
+      213: -5644852219695708044
+    second: SpitterMarabunta_DeathSS_43
+  - first:
+      213: 1259615806605267891
+    second: SpitterMarabunta_DeathSS_44
+  - first:
+      213: -5944615149479425406
+    second: SpitterMarabunta_DeathSS_45
+  - first:
+      213: -8638095662407058688
+    second: SpitterMarabunta_DeathSS_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69af4f10b42b34c46b0c17277036bb0d
+      internalID: 4050521960855311703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_1
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fed7f89a29da34696c2b10063375a7
+      internalID: -424148221352869295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_2
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a34205f806ad24f98f6a591f3bda62
+      internalID: 5822599018031156184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_3
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b48f6b1a82c4b84fa2ede95cbf6b13b
+      internalID: -8292458923192110683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_4
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161337f71c87faa4c9a0dfa306a4ffe6
+      internalID: -8422894031988220279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_5
+      rect:
+        serializedVersion: 2
+        x: 5375
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d240b6f8ca1fade43aa257c3352210af
+      internalID: 304991198328516381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_6
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ca7f9a1e78f9a408481166f9a99c48
+      internalID: -1397487835751198394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_7
+      rect:
+        serializedVersion: 2
+        x: 7525
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b0f09bfd7c04a4b91f2a38b26f12cf
+      internalID: 8647626439163920880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_8
+      rect:
+        serializedVersion: 2
+        x: 8600
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e56121ca024bcb4495498fc27d0dd27
+      internalID: 5174183571974242180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_9
+      rect:
+        serializedVersion: 2
+        x: 9675
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eee837922e4cc84c9a3f0a81dc8a6c2
+      internalID: 3277010378770792846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_10
+      rect:
+        serializedVersion: 2
+        x: 10750
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc7f4b36fd67f44d99886c7635c659b
+      internalID: 5771801706195268955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_11
+      rect:
+        serializedVersion: 2
+        x: 11825
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f03dbb913fe3645810a166f17fbf73
+      internalID: 5360349927255001029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_12
+      rect:
+        serializedVersion: 2
+        x: 12900
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9ea96561e10d645a21895efec0a6e7
+      internalID: 7625166692009691388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_13
+      rect:
+        serializedVersion: 2
+        x: 13975
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dc71914d8370140858fc11e933a236
+      internalID: -561212658964672080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_14
+      rect:
+        serializedVersion: 2
+        x: 15050
+        y: 6932
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694bba2f427404c4a88ffc73bfe7e072
+      internalID: 438187760191188840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98609ea1b4183a4085737378e0d7450
+      internalID: 9162059161163524670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_16
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef186fdae3db1e46b3fce99bfe7ccc1
+      internalID: 6807078284582192544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_17
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6daf4665cb96045beb02c444621bcb
+      internalID: -2314983039620000810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_18
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c08fe70c090e4f81fa19d36476232
+      internalID: -7656991733083382088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_19
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b343ccdb0fc544dbae698ce6113d0c
+      internalID: 6195862630756596706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_20
+      rect:
+        serializedVersion: 2
+        x: 5375
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eec7d5d2f573c4ba4fd5c3cc15e3cf
+      internalID: -3284454190085319972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_21
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0aa59022a470e4596dfc77b3a83757
+      internalID: -3914795600244237690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_22
+      rect:
+        serializedVersion: 2
+        x: 7525
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3490e12da0f6cb646b3cf379d1d5d05a
+      internalID: -2071476573390041047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_23
+      rect:
+        serializedVersion: 2
+        x: 8600
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e0ff4c5d11ab249bd11d7bb9ddcf5b
+      internalID: 7875650891769288813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_24
+      rect:
+        serializedVersion: 2
+        x: 9675
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4db078be0fb2f40849274f379f7f54
+      internalID: 3964323517642546527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_25
+      rect:
+        serializedVersion: 2
+        x: 10750
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3abc8c625ad2746aec7776af016c42
+      internalID: 3280163407889454482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_26
+      rect:
+        serializedVersion: 2
+        x: 11825
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38561d24f74385441809a2bcee9c56ff
+      internalID: 7070684337922769882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_27
+      rect:
+        serializedVersion: 2
+        x: 12900
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926f90269060a0e42ace7187f493bf11
+      internalID: 3000120740797648948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_28
+      rect:
+        serializedVersion: 2
+        x: 13975
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e446769fbde6f44b8a604423ddfa9d2
+      internalID: -6896737574787951110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_29
+      rect:
+        serializedVersion: 2
+        x: 15050
+        y: 5672
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fccbdeb887b3484bb2bc83defd87064
+      internalID: -3536804814432830897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd1a7ffa83876948b370cdebbd1b4e6
+      internalID: -8305709330805190821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_31
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dab491c9d5438740852999edb3a444e
+      internalID: -6300739296751855543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_32
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3248e5ecf45c91642b45a8884ed31a45
+      internalID: 1982608438748485240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_33
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee924f0761b9f2d4790fa45f6814d7f0
+      internalID: 6048366674153435543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_34
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49453c3acb09f1440ae976564f2a2b06
+      internalID: 5512015741411470558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_35
+      rect:
+        serializedVersion: 2
+        x: 5375
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c28f3df118d6c4ba94da1ab54fd5cf
+      internalID: -4574372363734651091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_36
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c09fad1e2c2bc348a14942927552637
+      internalID: 6350479937420148841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_37
+      rect:
+        serializedVersion: 2
+        x: 7525
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bea41bfd13cf94195eb2445becfc90
+      internalID: 8744183628180191836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_38
+      rect:
+        serializedVersion: 2
+        x: 8600
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f8da4e1dcefa049a97d041272c1654
+      internalID: 7763530629074480584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_39
+      rect:
+        serializedVersion: 2
+        x: 9675
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a50c6384222fde489b8b23e2edea751
+      internalID: 2209585730086612679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_40
+      rect:
+        serializedVersion: 2
+        x: 10750
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53717d8a57ea5ef42894880e14a30667
+      internalID: -1321596929498064592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_41
+      rect:
+        serializedVersion: 2
+        x: 11825
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a357d6d7f553f104fa84cada570d519d
+      internalID: -6770318196897633974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_42
+      rect:
+        serializedVersion: 2
+        x: 12900
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fc500ab379fac45b711529a4ae3b25
+      internalID: -5084187281333307037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_43
+      rect:
+        serializedVersion: 2
+        x: 13975
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1271545bd51b86e419e4d1fae746bebf
+      internalID: -5644852219695708044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_44
+      rect:
+        serializedVersion: 2
+        x: 15050
+        y: 4412
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81241340dee6b24788416f15b143d49
+      internalID: 1259615806605267891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3152
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcabacc7d2ddb18439abf8ef11c633da
+      internalID: -5944615149479425406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_DeathSS_46
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 3152
+        width: 1075
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f121f80fad65c499c990d757be1398
+      internalID: -8638095662407058688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

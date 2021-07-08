@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MithraTrailMAT
+  m_Shader: {fileID: 200, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _COLOROVERLAY_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - SHADOWCASTER
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionTex:
+        m_Texture: {fileID: 2800000, guid: 90cb573328dd31349a94dd34be597f2c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 8ebfb35d35fc2574c95a8d846a49b0a6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_ACF0EE71: 1
+    - Vector1_4B101A96: 3.78
+    - Vector1_74A4EA8: 77.1
+    - Vector1_D04A4FBE: 0.1
+    - Vector1_FA5EEC48: 2.14
+    - _AlphaClip: 0
+    - _Blend: 2
+    - _BlendOp: 0
+    - _CameraFadingEnabled: 0
+    - _CameraFarFadeDistance: 2
+    - _CameraNearFadeDistance: 1
+    - _ColorMode: 3
+    - _Cull: 0
+    - _Cutoff: 0.5
+    - _DistortionBlend: 0.5
+    - _DistortionEnabled: 0
+    - _DistortionStrength: 1
+    - _DistortionStrengthScaled: 0.1
+    - _DstBlend: 1
+    - _EnableExternalAlpha: 0
+    - _FlipbookBlending: 0
+    - _FlipbookMode: 0
+    - _InvFade: 1
+    - _Mode: 0
+    - _OutlineSize: 1
+    - _QueueOffset: 0
+    - _ScaleNoise: 2
+    - _SoftParticlesEnabled: 0
+    - _SoftParticlesFarFadeDistance: 1
+    - _SoftParticlesNearFadeDistance: 0
+    - _SrcBlend: 5
+    - _Surface: 1
+    - _TimeMultiply: 2
+    - _ZWrite: 0
+    m_Colors:
+    - Vector2_22D2E178: {r: -0.1, g: -0.5, b: 0, a: 0}
+    - Vector2_57BB9892: {r: 0, g: -0.3, b: 0, a: 0}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
+    - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorMat: {r: 1.924528, g: 0.6626914, b: 0.6626914, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _GlowDir: {r: 0.3, g: 0.7, b: 0, a: 0}
+    - _OutlineColor: {r: 1, g: 0, b: 1, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
+    - _TintColor: {r: 0.8301887, g: 0.8301887, b: 0.8301887, a: 0.5019608}

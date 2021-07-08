@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 128cd39bbc3503041b279df140e30fad, type: 3}
+  m_Name: KardelenB4Mithra
+  m_EditorClassIdentifier: 
+  Condition: 
+  linesEN: []
+  linesBR:
+  - CharacterName: Kardelen, o pessimista
+    DialogText: "As vezes me pego pensando, ser\xE1 que um dia O Ardente Olho-c\xEDclico,
+      em um de seus piores dias, ir\xE1 apagar?\r"
+    voice: {fileID: 0}
+  - CharacterName: Kardelen, o pessimista
+    DialogText: "N\xE3o conta para ningu\xE9m, mas... Acho que... Acho que at\xE9
+      seria bom um pouco de privacidade, concorda comigo?"
+    voice: {fileID: 0}
+  - CharacterName: Kardelen, o pessimista
+    DialogText: "Um olho que fica l\xE1, olhando tudo e todos, todo tempo... Completamente
+      cercado, mas totalmente solit\xE1rio... Deve... Deve ser triste e exaustivo..."
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Err... Acho que sim?\r"
+    voice: {fileID: 0}
+  - CharacterName: Kardelen, o pessimista
+    DialogText: "Ah, mas n\xE3o sei... Eu sempre tento desconfiar de supostos elogios
+      e gentilezas altru\xEDstas..."
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Mas, por qu\xEA?! Se a pessoa t\xE1 te ajudando \xE9 porque viu que
+      tu precisa de ajuda, \xE9 simples u\xE9!\r"
+    voice: {fileID: 0}
+  - CharacterName: Kardelen, o pessimista
+    DialogText: "Que susto! Por que tu veio do nada pro meu lado s\xF3 pra gritar?!
+      Que que tu quer?!"
+    voice: {fileID: 0}
+  - CharacterName: Kardelen, o pessimista
+    DialogText: "Aaah... \xC9 s\xF3 a nanica que o anci\xE3o adotou... Uuh, me desculpe,
+      acabei me exaltando... \xC9 que eu tava aqui pensando como ficaria A Torre se
+      Ele apagasse.\r"
+    voice: {fileID: 0}
+  - CharacterName: Kardelen, o pessimista
+    DialogText: "\xC9 uma quest\xE3o filos\xF3fica muuito complicada, n\xE3o sei se
+      voc\xEA seria capaz de entender.\r"
+    voice: {fileID: 0}
+  - CharacterName: Kardelen, o pessimista
+    DialogText: "Ah... Pera a\xED... Voc\xEA tinha dito algo? Foi algo importante?
+      Quer que eu tente explicar a minha quest\xE3o filos\xF3fica?"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "Aah, n\xE3o, nada, n\xE3o precisa! Vou te deixar sozinho pra poder
+      pensar bem, tchaau!\r"
+    voice: {fileID: 0}

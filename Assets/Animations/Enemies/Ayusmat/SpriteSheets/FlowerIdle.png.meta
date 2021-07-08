@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 50342a6acd0226f4e8500955ff259a92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4427622300326121224
+    second: FlowerIdle_0
+  - first:
+      213: -3660230260733385948
+    second: FlowerIdle_1
+  - first:
+      213: -7016608315791896226
+    second: FlowerIdle_2
+  - first:
+      213: -2109882427865705132
+    second: FlowerIdle_3
+  - first:
+      213: 6032526866420438886
+    second: FlowerIdle_4
+  - first:
+      213: 6618217097911212997
+    second: FlowerIdle_5
+  - first:
+      213: 8400333928896320060
+    second: FlowerIdle_6
+  - first:
+      213: 6485651929454522496
+    second: FlowerIdle_7
+  - first:
+      213: -6889480472839813315
+    second: FlowerIdle_8
+  - first:
+      213: -5620625875851205913
+    second: FlowerIdle_9
+  - first:
+      213: -21142032349477366
+    second: FlowerIdle_10
+  - first:
+      213: -2862261504540252826
+    second: FlowerIdle_11
+  - first:
+      213: -540126915177112791
+    second: FlowerIdle_12
+  - first:
+      213: 159094230150668770
+    second: FlowerIdle_13
+  - first:
+      213: -3607435573043537637
+    second: FlowerIdle_14
+  - first:
+      213: 258181368541369131
+    second: FlowerIdle_15
+  - first:
+      213: 3668591486219339149
+    second: FlowerIdle_16
+  - first:
+      213: -9049266144018486186
+    second: FlowerIdle_17
+  - first:
+      213: -753748410032384013
+    second: FlowerIdle_18
+  - first:
+      213: 8608406953034810627
+    second: FlowerIdle_19
+  - first:
+      213: -3404800973009421137
+    second: FlowerIdle_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlowerIdle_0
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2500
+        width: 824
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7287c5f3d0bd44eb3b6398fddcb996
+      internalID: 4427622300326121224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_1
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 2523
+        width: 824
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b43bc3ea0611c4e9020d00a89912d4
+      internalID: -3660230260733385948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_2
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 2500
+        width: 832
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c73375e055a1094db81d7d0a91644d9
+      internalID: -7016608315791896226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_3
+      rect:
+        serializedVersion: 2
+        x: 5324
+        y: 3121
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19e5946fad076b438de2d76e6a04fba
+      internalID: -2109882427865705132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_4
+      rect:
+        serializedVersion: 2
+        x: 6273
+        y: 2500
+        width: 832
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e273f2679f616f489a5d0e92cf1fe9e
+      internalID: 6032526866420438886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_5
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 2516
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eeeb5f982c79a4bb21980abc03512f
+      internalID: 6618217097911212997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_6
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 2500
+        width: 824
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6612b567b50f04884fa73be5d9314d
+      internalID: 8400333928896320060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_7
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1625
+        width: 824
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09bad27ae4a85549ba0d20889c971e3
+      internalID: 6485651929454522496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_8
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1902
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5cb82afd36041419597a6926b5ff47
+      internalID: -6889480472839813315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_9
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1633
+        width: 828
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6148c121b2ed40408f9c098af9a3bba
+      internalID: -5620625875851205913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_10
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 1641
+        width: 836
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec94d5894a397054e8c3439b73626b62
+      internalID: -21142032349477366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_11
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 1625
+        width: 836
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d244bb82ccff7649a3bd381aab72d70
+      internalID: -2862261504540252826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_12
+      rect:
+        serializedVersion: 2
+        x: 6281
+        y: 1641
+        width: 828
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de151beb8a95e940bd8a2701e2d066e
+      internalID: -540126915177112791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_13
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 1859
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb94dd7097adb3d4fa26993bc3a6e07a
+      internalID: 159094230150668770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_14
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1027
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eead9ee898dbbb468ace6852e8e54aa
+      internalID: -3607435573043537637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_15
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 762
+        width: 847
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9d720fd2d64e6448b40ef89f591093
+      internalID: 258181368541369131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_16
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 762
+        width: 832
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef3298083a0d174d92996ddbe0dc77a
+      internalID: 3668591486219339149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_17
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 762
+        width: 840
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c622608dad78d140840fa4216530ba2
+      internalID: -9049266144018486186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_18
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 750
+        width: 824
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713025b4e485e204283249266ac538bb
+      internalID: -753748410032384013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_19
+      rect:
+        serializedVersion: 2
+        x: 6285
+        y: 762
+        width: 824
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9df573da74e9994aaf7a1ccbcff8812
+      internalID: 8608406953034810627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerIdle_20
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1012
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df99f70e1dab964eaf0db856a91adba
+      internalID: -3404800973009421137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

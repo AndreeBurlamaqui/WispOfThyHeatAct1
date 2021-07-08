@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 1ad6cba913c4532468676f020fdd53b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3127896906209729485
+    second: SpitterMarabunta_WalkSS_0
+  - first:
+      213: 4671226502001729043
+    second: SpitterMarabunta_WalkSS_1
+  - first:
+      213: 7862618356786840640
+    second: SpitterMarabunta_WalkSS_2
+  - first:
+      213: 3783491101325655555
+    second: SpitterMarabunta_WalkSS_3
+  - first:
+      213: -1960174287690511839
+    second: SpitterMarabunta_WalkSS_4
+  - first:
+      213: -2465295857115647332
+    second: SpitterMarabunta_WalkSS_5
+  - first:
+      213: -3894753296861976236
+    second: SpitterMarabunta_WalkSS_6
+  - first:
+      213: 4530852689593960333
+    second: SpitterMarabunta_WalkSS_7
+  - first:
+      213: -260911029356965959
+    second: SpitterMarabunta_WalkSS_8
+  - first:
+      213: 2428909922853317787
+    second: SpitterMarabunta_WalkSS_9
+  - first:
+      213: -2731219166900047776
+    second: SpitterMarabunta_WalkSS_10
+  - first:
+      213: -3563079325653901703
+    second: SpitterMarabunta_WalkSS_11
+  - first:
+      213: 7972440513535598211
+    second: SpitterMarabunta_WalkSS_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpitterMarabunta_WalkSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1544
+        width: 980
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf3c70a2e53074419956fb5c9c07f8a
+      internalID: -3127896906209729485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_WalkSS_1
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1544
+        width: 980
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c51099bd37d7f4fa1b99bc8fb99762
+      internalID: 4671226502001729043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_WalkSS_2
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1544
+        width: 980
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a706a563b8aad294f94ccf84dbae11ed
+      internalID: 7862618356786840640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_WalkSS_3
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1544
+        width: 980
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a839c626661d8b4b9259934eb57cec3
+      internalID: 3783491101325655555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_WalkSS_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 980
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbb567a2ee820641bf579e36a0b1ded
+      internalID: -1960174287690511839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_WalkSS_5
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1040
+        width: 980
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d4c7c1f0da62d459527004ffc228d1
+      internalID: -2465295857115647332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_WalkSS_6
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1040
+        width: 980
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1422ef2154a3fc24fac1440bd72e0203
+      internalID: -3894753296861976236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_WalkSS_7
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1040
+        width: 980
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3d54d5f15171b41ad73143667f1089
+      internalID: 4530852689593960333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_WalkSS_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 980
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8e686baacfdcf47ba0946d2493b393
+      internalID: -260911029356965959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_WalkSS_9
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 536
+        width: 980
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be6d7ca84d81bc43a4b7f894eb653e0
+      internalID: 2428909922853317787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_WalkSS_10
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 536
+        width: 980
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdb31a83ac56654fb387e9e135188ae
+      internalID: -2731219166900047776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_WalkSS_11
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 536
+        width: 980
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5532d0bb235294db7f220e501ce8ce
+      internalID: -3563079325653901703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpitterMarabunta_WalkSS_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 980
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eff78d764b5904fa1ad9500314a75e
+      internalID: 7972440513535598211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

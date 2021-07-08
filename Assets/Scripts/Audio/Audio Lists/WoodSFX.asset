@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e990790d4798cd479c522ee57aa916f, type: 3}
+  m_Name: WoodSFX
+  m_EditorClassIdentifier: 
+  materialType: 2
+  audios:
+  - clip: {fileID: 8300000, guid: 7ffe843b3b9c8d14792d912d39646105, type: 3}
+    type: 0
+    volume: 1
+  - clip: {fileID: 8300000, guid: abba458440d944243b7c09672637089b, type: 3}
+    type: 0
+    volume: 1
+  - clip: {fileID: 8300000, guid: b30822d7e7d412d459397d0749be742a, type: 3}
+    type: 0
+    volume: 1
+  - clip: {fileID: 8300000, guid: 5eec81954b857b148b4317fd643e8ca6, type: 3}
+    type: 1
+    volume: 0.7
+  - clip: {fileID: 8300000, guid: 8bf6cda2a5f35024a83d4e8076172407, type: 3}
+    type: 1
+    volume: 0.7
+  - clip: {fileID: 8300000, guid: 58b46f587e0e79f4e85768d9c3b6898d, type: 3}
+    type: 2
+    volume: 0.3
+  - clip: {fileID: 8300000, guid: bb5ec83ccc5c69f43b31f100278bff91, type: 3}
+    type: 2
+    volume: 0.5
+  - clip: {fileID: 8300000, guid: 623ad07c146cedd4db6b902fd1612618, type: 3}
+    type: 2
+    volume: 0.5
+  - clip: {fileID: 8300000, guid: 7f31ac62883f78b4ba610e164f57f879, type: 3}
+    type: 0
+    volume: 1

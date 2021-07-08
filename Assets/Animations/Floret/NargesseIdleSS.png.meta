@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: 38cbc0c3e8ce9184790792abeb4d0fe0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3160024722985954946
+    second: NargesseIdleSS_0
+  - first:
+      213: 2118999867061311323
+    second: NargesseIdleSS_1
+  - first:
+      213: -8185277626534281301
+    second: NargesseIdleSS_2
+  - first:
+      213: 6765874941005700073
+    second: NargesseIdleSS_3
+  - first:
+      213: 2518432688372275303
+    second: NargesseIdleSS_4
+  - first:
+      213: 2249169892046423637
+    second: NargesseIdleSS_5
+  - first:
+      213: 2360819876424033890
+    second: NargesseIdleSS_6
+  - first:
+      213: -7619308216601800288
+    second: NargesseIdleSS_7
+  - first:
+      213: 8640252553739477572
+    second: NargesseIdleSS_8
+  - first:
+      213: 6978360321581079180
+    second: NargesseIdleSS_9
+  - first:
+      213: -2814113693176749010
+    second: NargesseIdleSS_10
+  - first:
+      213: 4559874256249452063
+    second: NargesseIdleSS_11
+  - first:
+      213: 1169892683079534765
+    second: NargesseIdleSS_12
+  - first:
+      213: 6026506798178276123
+    second: NargesseIdleSS_13
+  - first:
+      213: 5042147629091222884
+    second: NargesseIdleSS_14
+  - first:
+      213: -2688429374355254321
+    second: NargesseIdleSS_15
+  - first:
+      213: -6127032245051128307
+    second: NargesseIdleSS_16
+  - first:
+      213: 1899988597406355745
+    second: NargesseIdleSS_17
+  - first:
+      213: -3689605491538973948
+    second: NargesseIdleSS_18
+  - first:
+      213: -8629082755121352539
+    second: NargesseIdleSS_19
+  - first:
+      213: -94756485017454528
+    second: NargesseIdleSS_20
+  - first:
+      213: 6968628047263253513
+    second: NargesseIdleSS_21
+  - first:
+      213: -1756320614899574543
+    second: NargesseIdleSS_22
+  - first:
+      213: 4258391393058326505
+    second: NargesseIdleSS_23
+  - first:
+      213: 4539666100889304882
+    second: NargesseIdleSS_24
+  - first:
+      213: 2591257495867685662
+    second: NargesseIdleSS_25
+  - first:
+      213: 8044759949135802221
+    second: NargesseIdleSS_26
+  - first:
+      213: -8624695993084658254
+    second: NargesseIdleSS_27
+  - first:
+      213: 1915288851115868380
+    second: NargesseIdleSS_28
+  - first:
+      213: 8027172352943268298
+    second: NargesseIdleSS_29
+  - first:
+      213: -2390439098159914486
+    second: NargesseIdleSS_30
+  - first:
+      213: -1534294952067595452
+    second: NargesseIdleSS_31
+  - first:
+      213: -1866488893696047909
+    second: NargesseIdleSS_32
+  - first:
+      213: -5224909926169087141
+    second: NargesseIdleSS_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NargesseIdleSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1136
+        width: 704
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcfd603930d3fb47a562005b9f84468
+      internalID: 3160024722985954946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_1
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1136
+        width: 680
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26902a6050fbed04c8489769c8f29fd5
+      internalID: 2118999867061311323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_2
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1120
+        width: 664
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f7d304a58be3a469d8c012e5e620a6
+      internalID: -8185277626534281301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_3
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1120
+        width: 656
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bab3ca15704e6429ad489ade386a10
+      internalID: 6765874941005700073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_4
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 1248
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ce74702efce014e893c2008aaab1f1
+      internalID: 2518432688372275303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_5
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 1136
+        width: 632
+        height: 824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced740b1ba55fb44fa1e63e059227464
+      internalID: 2249169892046423637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_6
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 1120
+        width: 616
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d6671d72dce6d42bf7ad0eeaf48156
+      internalID: 2360819876424033890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_7
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1120
+        width: 608
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7a58c7e834e9245bd4760b770ecc13
+      internalID: -7619308216601800288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_8
+      rect:
+        serializedVersion: 2
+        x: 5104
+        y: 1136
+        width: 568
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340ec8924f1516f42a8d338f50f7d664
+      internalID: 8640252553739477572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_9
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 1088
+        width: 576
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcede3cbf29ce8a49a6247dc4af2a8a0
+      internalID: 6978360321581079180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_10
+      rect:
+        serializedVersion: 2
+        x: 6584
+        y: 1120
+        width: 520
+        height: 888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e5c2ecd8933004ca65b1c1a1c8880e
+      internalID: -2814113693176749010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_11
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 1136
+        width: 520
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eadb800857ea3640b928cac608aee20
+      internalID: 4559874256249452063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_12
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 1216
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1153869d6f543439553bb958ca7310
+      internalID: 1169892683079534765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816b824589ee0a94c8030094b8ace1a1
+      internalID: 6026506798178276123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_14
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 1120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b70cf1bf3fa2444889c834567be775c
+      internalID: 5042147629091222884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 496
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed66a13f3863707488b3c1c40df7d647
+      internalID: -2688429374355254321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 216
+        width: 528
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c394eb46fe5053844b4af4054533663b
+      internalID: -6127032245051128307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_17
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 192
+        width: 496
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2569d52529e85548b988e521089fbbe
+      internalID: 1899988597406355745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_18
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 1088
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622d99164807ad84088e477dfe2dd927
+      internalID: -3689605491538973948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_19
+      rect:
+        serializedVersion: 2
+        x: 6944
+        y: 1088
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcff10c739de0f44f9035ecac2462133
+      internalID: -8629082755121352539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_20
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 864
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eaee2107bcf514b8a362a5a0ff809f
+      internalID: -94756485017454528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_21
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 208
+        width: 488
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a764796adc9b0544a5f05cba570f248
+      internalID: 6968628047263253513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_22
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 216
+        width: 552
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abbbb4e7418d92418453af97b447640
+      internalID: -1756320614899574543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_23
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 216
+        width: 544
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e9d633bab4f0b4ea6ef70bfb8bd52b
+      internalID: 4258391393058326505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_24
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 216
+        width: 616
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a4819055c2a134db2f62173106eae6
+      internalID: 4539666100889304882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_25
+      rect:
+        serializedVersion: 2
+        x: 5056
+        y: 216
+        width: 624
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd378de46e79b164f8e787266a492223
+      internalID: 2591257495867685662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_26
+      rect:
+        serializedVersion: 2
+        x: 5744
+        y: 192
+        width: 656
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a931314a2ef471644b4da8008f68f041
+      internalID: 8044759949135802221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_27
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 216
+        width: 712
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2521a4902ac47c1408617e27877c77ac
+      internalID: -8624695993084658254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_28
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 672
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cca2a2be047c8741ac0f7e06993f40f
+      internalID: 1915288851115868380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_29
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 640
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d7f7165f9198a48b0cbc7c70dfd810
+      internalID: 8027172352943268298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_30
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 640
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ec2c99a33892548971fe4906d42374
+      internalID: -2390439098159914486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_31
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d928c7b6f249214893b2cc362221c17
+      internalID: -1534294952067595452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_32
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6721ebf0feee7e04893be4954e089189
+      internalID: -1866488893696047909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NargesseIdleSS_33
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107dbad8c28515d4290c7b5ae7c02af8
+      internalID: -5224909926169087141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

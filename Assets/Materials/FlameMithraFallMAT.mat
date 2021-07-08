@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FlameMithraFallMAT
+  m_Shader: {fileID: -6465566751694194690, guid: 393de336414b42641a3573f7b2cac2f5,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA MULTIPLY
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 56c9600bc78c02d4e8344988835e70ed, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_4B101A96: 4
+    - Vector1_74A4EA8: -0.32
+    - Vector1_D04A4FBE: 0.1
+    - Vector1_FA5EEC48: 4
+    m_Colors:
+    - Color_6D0AA83: {r: 5.992157, g: 5.082353, b: 1.2862746, a: 1}
+    - Vector2_22D2E178: {r: -0.1, g: -0.3, b: 0, a: 0}
+    - Vector2_57BB9892: {r: -0.1, g: -0.3, b: 0, a: 0}

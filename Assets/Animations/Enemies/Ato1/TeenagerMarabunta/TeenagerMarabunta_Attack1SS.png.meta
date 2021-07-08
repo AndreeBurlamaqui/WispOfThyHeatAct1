@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 49203a1f954984e4b9d2181586e13d10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2788535988349489425
+    second: TeenagerMarabunta_Attack1SS_0
+  - first:
+      213: -5130258614832463343
+    second: TeenagerMarabunta_Attack1SS_1
+  - first:
+      213: 2341999093012095429
+    second: TeenagerMarabunta_Attack1SS_2
+  - first:
+      213: -434672710032238592
+    second: TeenagerMarabunta_Attack1SS_3
+  - first:
+      213: 8726089606170346039
+    second: TeenagerMarabunta_Attack1SS_4
+  - first:
+      213: -3273600488949952456
+    second: TeenagerMarabunta_Attack1SS_5
+  - first:
+      213: 7593676803640307
+    second: TeenagerMarabunta_Attack1SS_6
+  - first:
+      213: 3673707053454839449
+    second: TeenagerMarabunta_Attack1SS_7
+  - first:
+      213: -8891538429545503494
+    second: TeenagerMarabunta_Attack1SS_8
+  - first:
+      213: 7820818622533093180
+    second: TeenagerMarabunta_Attack1SS_9
+  - first:
+      213: -6694300290847494510
+    second: TeenagerMarabunta_Attack1SS_10
+  - first:
+      213: -2586402188821254847
+    second: TeenagerMarabunta_Attack1SS_11
+  - first:
+      213: 7782489297736442796
+    second: TeenagerMarabunta_Attack1SS_12
+  - first:
+      213: -8268106649373334525
+    second: TeenagerMarabunta_Attack1SS_13
+  - first:
+      213: 1156531226956581355
+    second: TeenagerMarabunta_Attack1SS_14
+  - first:
+      213: 3179434839981459962
+    second: TeenagerMarabunta_Attack1SS_15
+  - first:
+      213: 1340385934423240153
+    second: TeenagerMarabunta_Attack1SS_16
+  - first:
+      213: -4983698117147738645
+    second: TeenagerMarabunta_Attack1SS_17
+  - first:
+      213: -1255367990705681785
+    second: TeenagerMarabunta_Attack1SS_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13954
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4702c7be42580254f95f7f987f854ed7
+      internalID: -2788535988349489425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_1
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 13954
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b218c69e740b9e54eb4459c91abda3ed
+      internalID: -5130258614832463343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_2
+      rect:
+        serializedVersion: 2
+        x: 6172
+        y: 13954
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e30e895b634d0441b73e4a16a06f674
+      internalID: 2341999093012095429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_3
+      rect:
+        serializedVersion: 2
+        x: 9258
+        y: 13954
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6ca479feb7cb643b8bc48864b03fd2
+      internalID: -434672710032238592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_4
+      rect:
+        serializedVersion: 2
+        x: 12344
+        y: 13954
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ebf79ac6c9ac54e833face085de1cf
+      internalID: 8726089606170346039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11524
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b541bcf959fece445910ab0f4a8bf4f2
+      internalID: -3273600488949952456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_6
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 11524
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32a7d2b18f21e34db91397e42c4bc4a
+      internalID: 7593676803640307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_7
+      rect:
+        serializedVersion: 2
+        x: 6172
+        y: 11524
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6828e7f0ebc5b44afb7844ba852020
+      internalID: 3673707053454839449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_8
+      rect:
+        serializedVersion: 2
+        x: 9258
+        y: 11524
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7565fd8c42b49a0429cce251b4416581
+      internalID: -8891538429545503494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_9
+      rect:
+        serializedVersion: 2
+        x: 12344
+        y: 11524
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704194f19469e0e4b926dfb8f62b1eff
+      internalID: 7820818622533093180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9094
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2193539df0d002e4f80f92e04d665ba8
+      internalID: -6694300290847494510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_11
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 9094
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62a36c872373a6479c0ecf10b50a3cd
+      internalID: -2586402188821254847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_12
+      rect:
+        serializedVersion: 2
+        x: 6172
+        y: 9094
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ec84d1d0aee09409a3afab288a1859
+      internalID: 7782489297736442796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_13
+      rect:
+        serializedVersion: 2
+        x: 9258
+        y: 9094
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9159f26725ea701419646cb8e3c8e13d
+      internalID: -8268106649373334525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_14
+      rect:
+        serializedVersion: 2
+        x: 12344
+        y: 9094
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdd372c339aa6e4f85ac60c068fa18b
+      internalID: 1156531226956581355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6664
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabafa5505ce5524793557ff5f9c0af7
+      internalID: 3179434839981459962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_16
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 6664
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6430a310c4983641aa95bf22ca3f48e
+      internalID: 1340385934423240153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_17
+      rect:
+        serializedVersion: 2
+        x: 6172
+        y: 6664
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44605a3c80692db41a863e98b80eedd9
+      internalID: -4983698117147738645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_Attack1SS_18
+      rect:
+        serializedVersion: 2
+        x: 9258
+        y: 6664
+        width: 3086
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed997f538c8c3f40b3c4ca081739d31
+      internalID: -1255367990705681785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

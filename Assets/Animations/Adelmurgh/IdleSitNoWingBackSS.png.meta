@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: d60e4ace546e99341a29048371e3f78f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4236860225645453232
+    second: IdleSitNoWingBackSS_0
+  - first:
+      213: 2530392062339482830
+    second: IdleSitNoWingBackSS_1
+  - first:
+      213: 5010286599066008177
+    second: IdleSitNoWingBackSS_2
+  - first:
+      213: 1109281017336685966
+    second: IdleSitNoWingBackSS_3
+  - first:
+      213: 7973318981836986810
+    second: IdleSitNoWingBackSS_4
+  - first:
+      213: -2829995197744780435
+    second: IdleSitNoWingBackSS_5
+  - first:
+      213: -5677313905831999081
+    second: IdleSitNoWingBackSS_6
+  - first:
+      213: 5970446006846339577
+    second: IdleSitNoWingBackSS_7
+  - first:
+      213: 7376897046944975585
+    second: IdleSitNoWingBackSS_8
+  - first:
+      213: 4526166807020353588
+    second: IdleSitNoWingBackSS_9
+  - first:
+      213: -6278326574283875669
+    second: IdleSitNoWingBackSS_10
+  - first:
+      213: 6888462209359364778
+    second: IdleSitNoWingBackSS_11
+  - first:
+      213: 1231256605607915949
+    second: IdleSitNoWingBackSS_12
+  - first:
+      213: -2917946645428316471
+    second: IdleSitNoWingBackSS_13
+  - first:
+      213: 9005744560482830376
+    second: IdleSitNoWingBackSS_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 135
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2584
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86d7e18e74ff62498e83382fdf56da3
+      internalID: 4236860225645453232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_1
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2584
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019ce87ec560f6847807f4a0ceddc937
+      internalID: 2530392062339482830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_2
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2584
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d7270cb2274f9449456d3cb51df73b
+      internalID: 5010286599066008177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_3
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 2584
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9efb13d386daf429e3e45420f27e5e
+      internalID: 1109281017336685966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_4
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2584
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f9c60ffd26a6d41b0501ae081133b7
+      internalID: 7973318981836986810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1292
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598c8427ed25a1a48a0cde9219b4eb32
+      internalID: -2829995197744780435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_6
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1292
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957765ab671f6804f986c2d735d8122e
+      internalID: -5677313905831999081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_7
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1292
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8661168c13aa87b418ccd1a4a57e5eb1
+      internalID: 5970446006846339577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_8
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1292
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88fbf4dbf4d79345a13c2565e075394
+      internalID: 7376897046944975585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_9
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1292
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c4ae8104f9f5344ad7521aa06e5f77
+      internalID: 4526166807020353588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45144122af4b8f045a1acd7a9962b0cc
+      internalID: -6278326574283875669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 0
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f9b0a248052214da6a34384cfe114b
+      internalID: 6888462209359364778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_12
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 0
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2709cd4938b8e4193455f58ff8429b
+      internalID: 1231256605607915949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_13
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 0
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e5cb691bcedf64ebe9c330b366288e
+      internalID: -2917946645428316471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleSitNoWingBackSS_14
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 0
+        width: 715.2
+        height: 1292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4865ed39830886442bc8cb24d26cf83d
+      internalID: 9005744560482830376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

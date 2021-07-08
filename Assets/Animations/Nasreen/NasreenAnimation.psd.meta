@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: 4cced351c1e1bc94abe365a0cabd798d
+importerOverride: Assembly-CSharp:UnityEditor.U2D.PSD:PSDImporterOverride
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1611f718633709f4ab4cce2eeecba56b, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 600
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Mecha1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1655
+      y: 1355
+      width: 192
+      height: 65
+    spriteID: d09bf7c7c6de9b74289e97b00a3e86c5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 863, y: -353}
+  - name: Mecha2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 675
+      y: 2589
+      width: 180
+      height: 122
+    spriteID: 88d2d42674ad6d44ea3ec9649f2f41ed
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -130, y: 992}
+  - name: Mecha3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 906
+      y: 1843
+      width: 76
+      height: 274
+    spriteID: d227dde9ad9c2a343bad74c38bc4076a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 400}
+  - name: Mecha4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 906
+      y: 1662
+      width: 137
+      height: 173
+    spriteID: 64a5521dc3174e24a867a1ee94b2c639
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 77, y: 195}
+  - name: Topete
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1768
+      y: 4
+      width: 266
+      height: 329
+    spriteID: 11803a5699be449409287edb21936380
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 814, y: -1714}
+  - name: Cabelo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1064
+      y: 788
+      width: 583
+      height: 635
+    spriteID: 70536d012a628294799bc00a2ff22a78
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 549, y: -463}
+  - name: "Cabe\xE7a"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1064
+      y: 1431
+      width: 712
+      height: 447
+    spriteID: f6803e55f9bef0c48976fc0800258d50
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 90, y: 83}
+  - name: TiraSuperiorMochila Merged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 675
+      y: 2230
+      width: 333
+      height: 200
+    spriteID: 430aaff0c99cb98459a2c88e24dedd68
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -309, y: 1164}
+  - name: Manga
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3081
+      width: 548
+      height: 1003
+    spriteID: 73445899e8248b448811729b51ce44a1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -658, y: 2851}
+  - name: TiraMochilaAtras Merged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1768
+      y: 341
+      width: 264
+      height: 215
+    spriteID: a404ffefb5a039449ad78ba321a8f099
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 776, y: -518}
+  - name: Mochila
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 640
+      y: 1662
+      width: 258
+      height: 439
+    spriteID: 5c137eb03030e9549b60af48dd201696
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -155, y: 867}
+  - name: CorpoCima
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 640
+      y: 1317
+      width: 394
+      height: 337
+    spriteID: 8235d8864472d5e4d88a0524e1677dab
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -321, y: 222}
+  - name: CorpoBaixo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2230
+      width: 663
+      height: 843
+    spriteID: 7170141d7c766a14d9fb9c777fe057b1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -858, y: 1844}
+  - name: Tail
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1052
+      height: 1305
+    spriteID: 3481f627ac60c2b4894e1d601bce2164
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -216, y: -287}
+  - name: PernaFrente
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1655
+      y: 788
+      width: 199
+      height: 559
+    spriteID: fe281d53cb4ddb14aac5cb13d931e076
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 514, y: 784}
+  - name: PernaAtras
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1862
+      y: 788
+      width: 176
+      height: 584
+    spriteID: 6de440c38a93fb047b69d1e13223ada9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 830, y: 772}
+  - name: MangaAtras
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1317
+      width: 628
+      height: 905
+    spriteID: 2ace8ef43e8eda040ae00e7cc93cc171
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -557, y: 986}
+  - name: CabeloAtras
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1064
+      y: 4
+      width: 696
+      height: 776
+    spriteID: 037d86df961c15041bebae6a113007eb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 559, y: -1235}
+  - name: BlackTira
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1768
+      y: 564
+      width: 264
+      height: 215
+    spriteID: ba2f6abd8d553d74d9906f33568e21c1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 776, y: -295}
+  - name: TiraSuperiorBlack
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 675
+      y: 2438
+      width: 293
+      height: 143
+    spriteID: 111a47289ce000e48ab26440a50a7b5e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -296, y: 1303}
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 4096
+  documentSize: {x: 2048, y: 2048}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Mecha1
+    spriteName: Mecha1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d09bf7c7c6de9b74289e97b00a3e86c5
+    layerID: 0
+    mosaicPosition: {x: 1655, y: 1355}
+  - name: Mecha2
+    spriteName: Mecha2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 88d2d42674ad6d44ea3ec9649f2f41ed
+    layerID: -829290420
+    mosaicPosition: {x: 675, y: 2589}
+  - name: Mecha3
+    spriteName: Mecha3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d227dde9ad9c2a343bad74c38bc4076a
+    layerID: 736793521
+    mosaicPosition: {x: 906, y: 1843}
+  - name: Mecha4
+    spriteName: Mecha4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 64a5521dc3174e24a867a1ee94b2c639
+    layerID: -1992089834
+    mosaicPosition: {x: 906, y: 1662}
+  - name: Topete
+    spriteName: Topete
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 11803a5699be449409287edb21936380
+    layerID: 1609928839
+    mosaicPosition: {x: 1768, y: 4}
+  - name: Cabelo
+    spriteName: Cabelo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 70536d012a628294799bc00a2ff22a78
+    layerID: -168980146
+    mosaicPosition: {x: 1064, y: 788}
+  - name: "Cabe\xE7a"
+    spriteName: "Cabe\xE7a"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f6803e55f9bef0c48976fc0800258d50
+    layerID: -619318717
+    mosaicPosition: {x: 1064, y: 1431}
+  - name: TiraSuperiorMochila Merged
+    spriteName: TiraSuperiorMochila Merged
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 430aaff0c99cb98459a2c88e24dedd68
+    layerID: -1703875752
+    mosaicPosition: {x: 675, y: 2230}
+  - name: Manga
+    spriteName: Manga
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 73445899e8248b448811729b51ce44a1
+    layerID: 1353005046
+    mosaicPosition: {x: 4, y: 3081}
+  - name: TiraMochilaAtras Merged
+    spriteName: TiraMochilaAtras Merged
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a404ffefb5a039449ad78ba321a8f099
+    layerID: -1378625246
+    mosaicPosition: {x: 1768, y: 341}
+  - name: Mochila
+    spriteName: Mochila
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5c137eb03030e9549b60af48dd201696
+    layerID: -326089239
+    mosaicPosition: {x: 640, y: 1662}
+  - name: CorpoCima
+    spriteName: CorpoCima
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8235d8864472d5e4d88a0524e1677dab
+    layerID: 1425060631
+    mosaicPosition: {x: 640, y: 1317}
+  - name: CorpoBaixo
+    spriteName: CorpoBaixo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7170141d7c766a14d9fb9c777fe057b1
+    layerID: 1335771352
+    mosaicPosition: {x: 4, y: 2230}
+  - name: Tail
+    spriteName: Tail
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3481f627ac60c2b4894e1d601bce2164
+    layerID: 405905984
+    mosaicPosition: {x: 4, y: 4}
+  - name: PernaFrente
+    spriteName: PernaFrente
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fe281d53cb4ddb14aac5cb13d931e076
+    layerID: 283094204
+    mosaicPosition: {x: 1655, y: 788}
+  - name: PernaAtras
+    spriteName: PernaAtras
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6de440c38a93fb047b69d1e13223ada9
+    layerID: 2120673945
+    mosaicPosition: {x: 1862, y: 788}
+  - name: MangaAtras
+    spriteName: MangaAtras
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2ace8ef43e8eda040ae00e7cc93cc171
+    layerID: -1946544671
+    mosaicPosition: {x: 4, y: 1317}
+  - name: CabeloAtras
+    spriteName: CabeloAtras
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 037d86df961c15041bebae6a113007eb
+    layerID: -1409244689
+    mosaicPosition: {x: 1064, y: 4}
+  - name: BlackTira
+    spriteName: BlackTira
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ba2f6abd8d553d74d9906f33568e21c1
+    layerID: 408802689
+    mosaicPosition: {x: 1768, y: 564}
+  - name: TiraSuperiorBlack
+    spriteName: TiraSuperiorBlack
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 111a47289ce000e48ab26440a50a7b5e
+    layerID: 1868290978
+    mosaicPosition: {x: 675, y: 2438}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: NasreenAnimation Texture
+  prefabAssetName: NasreenAnimation Prefab
+  spriteLibAssetName: NasreenAnimation Sprite Lib
+  secondarySpriteTextures: []

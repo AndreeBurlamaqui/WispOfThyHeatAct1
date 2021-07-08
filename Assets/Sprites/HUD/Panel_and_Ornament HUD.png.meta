@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 1ed5815d1fdbe40409b2500bc27e8df3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1589755555245681570
+    second: Panel_and_Ornament HUD_0
+  - first:
+      213: 3407987025104803390
+    second: Panel_and_Ornament HUD_1
+  - first:
+      213: 1903887298702702248
+    second: Panel_and_Ornament HUD_2
+  - first:
+      213: -4258923669090145386
+    second: Panel_and_Ornament HUD_3
+  - first:
+      213: 199844300582134212
+    second: Panel_and_Ornament HUD_4
+  - first:
+      213: -6449092086474880675
+    second: Panel_and_Ornament HUD_5
+  - first:
+      213: 4728333244534973803
+    second: Panel_and_Ornament HUD_6
+  - first:
+      213: -325664622259583638
+    second: Panel_and_Ornament HUD_7
+  - first:
+      213: -5394516679626402231
+    second: Panel_and_Ornament HUD_8
+  - first:
+      213: -9214967918293932075
+    second: Panel_and_Ornament HUD_9
+  - first:
+      213: -157060729544311049
+    second: Panel_and_Ornament HUD_10
+  - first:
+      213: 315862657626319778
+    second: Panel_and_Ornament HUD_11
+  - first:
+      213: -7265066682010642354
+    second: Panel_and_Ornament HUD_12
+  - first:
+      213: 2982162088827390754
+    second: Panel_and_Ornament HUD_13
+  - first:
+      213: -1419356142943551974
+    second: Panel_and_Ornament HUD_14
+  - first:
+      213: -6112900964752068070
+    second: Panel_and_Ornament HUD_15
+  - first:
+      213: -2905611909958419432
+    second: Panel_and_Ornament HUD_16
+  - first:
+      213: 6919989068478537421
+    second: Panel_and_Ornament HUD_17
+  - first:
+      213: -6497014576813352169
+    second: Panel_and_Ornament HUD_18
+  - first:
+      213: -2250182420730934109
+    second: Panel_and_Ornament HUD_19
+  - first:
+      213: -1099925328819510853
+    second: Panel_and_Ornament HUD_20
+  - first:
+      213: 7899776387303422701
+    second: Panel_and_Ornament HUD_21
+  - first:
+      213: -8064004192153909698
+    second: Panel_and_Ornament HUD_22
+  - first:
+      213: -7055126871393316562
+    second: Panel_and_Ornament HUD_23
+  - first:
+      213: 6631249198496216614
+    second: Panel_and_Ornament HUD_24
+  - first:
+      213: 2695943353846880867
+    second: Panel_and_Ornament HUD_25
+  - first:
+      213: 7060596288738746772
+    second: Panel_and_Ornament HUD_26
+  - first:
+      213: 1897390276313969220
+    second: Panel_and_Ornament HUD_27
+  - first:
+      213: -2574958739404481654
+    second: Panel_and_Ornament HUD_28
+  - first:
+      213: -853001244862749143
+    second: Panel_and_Ornament HUD_29
+  - first:
+      213: 8284859037234181255
+    second: Panel_and_Ornament HUD_30
+  - first:
+      213: -4643110403265153357
+    second: Panel_and_Ornament HUD_31
+  - first:
+      213: 2089433892972221936
+    second: Panel_and_Ornament HUD_32
+  - first:
+      213: -5352706431059841809
+    second: Panel_and_Ornament HUD_33
+  - first:
+      213: -7162551446497418090
+    second: Panel_and_Ornament HUD_34
+  - first:
+      213: -2300180957239219937
+    second: Panel_and_Ornament HUD_35
+  - first:
+      213: 6650537442057093470
+    second: Panel_and_Ornament HUD_36
+  - first:
+      213: 1159630977898688615
+    second: Panel_and_Ornament HUD_37
+  - first:
+      213: 7035996133416856851
+    second: Panel_and_Ornament HUD_38
+  - first:
+      213: 6997365896865106880
+    second: Panel_and_Ornament HUD_39
+  - first:
+      213: 7032144435646085347
+    second: Panel_and_Ornament HUD_40
+  - first:
+      213: 2339138982593259281
+    second: Panel_and_Ornament HUD_41
+  - first:
+      213: 6562863477974244803
+    second: Panel_and_Ornament HUD_42
+  - first:
+      213: 1733968800509236057
+    second: Panel_and_Ornament HUD_43
+  - first:
+      213: 6578983155684622494
+    second: Panel_and_Ornament HUD_44
+  - first:
+      213: 5553546451596404930
+    second: Panel_and_Ornament HUD_45
+  - first:
+      213: 7419933577510353743
+    second: Panel_and_Ornament HUD_46
+  - first:
+      213: 5590088694800839351
+    second: Panel_and_Ornament HUD_47
+  - first:
+      213: -5566802423880887260
+    second: Panel_and_Ornament HUD_48
+  - first:
+      213: 5774265619967925936
+    second: Panel_and_Ornament HUD_49
+  - first:
+      213: 4981414412578885749
+    second: Panel_and_Ornament HUD_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Panel_and_Ornament HUD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1708
+        width: 2048
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 682, y: 0, z: 686, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5490e1debd00f9e0800000000000000
+      internalID: -1589755555245681570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel_and_Ornament HUD_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1157
+        width: 2048
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 307, y: 34, z: 307, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36138e942a9b4f20800000000000000
+      internalID: 3407987025104803390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel_and_Ornament HUD_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 395
+        width: 1671
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 50, z: 62, w: 41}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a67d833967fb6a10800000000000000
+      internalID: 1903887298702702248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel_and_Ornament HUD_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 286
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 340, z: 0, w: 345}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be06adc7345e4c0800000000000000
+      internalID: -4258923669090145386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel_and_Ornament HUD_4
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 32
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1a592255df5c200800000000000000
+      internalID: 199844300582134212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

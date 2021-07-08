@@ -1,0 +1,994 @@
+fileFormatVersion: 2
+guid: a69e91d0c1900e84ab4c393883540a4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4781116591526791707
+    second: TeenagerMarabunta_DeathSS_0
+  - first:
+      213: -1644302421356308764
+    second: TeenagerMarabunta_DeathSS_1
+  - first:
+      213: -1628884972521960779
+    second: TeenagerMarabunta_DeathSS_2
+  - first:
+      213: 6798518810435797366
+    second: TeenagerMarabunta_DeathSS_3
+  - first:
+      213: 3167288258925277793
+    second: TeenagerMarabunta_DeathSS_4
+  - first:
+      213: 6002549925017937161
+    second: TeenagerMarabunta_DeathSS_5
+  - first:
+      213: 7526688317363547802
+    second: TeenagerMarabunta_DeathSS_6
+  - first:
+      213: -3632489610556066432
+    second: TeenagerMarabunta_DeathSS_7
+  - first:
+      213: 2198519583405416380
+    second: TeenagerMarabunta_DeathSS_8
+  - first:
+      213: 7411653929138326303
+    second: TeenagerMarabunta_DeathSS_9
+  - first:
+      213: -3859667112373028423
+    second: TeenagerMarabunta_DeathSS_10
+  - first:
+      213: -4720824284747863139
+    second: TeenagerMarabunta_DeathSS_11
+  - first:
+      213: 8382706383794787559
+    second: TeenagerMarabunta_DeathSS_12
+  - first:
+      213: -4011148441229001196
+    second: TeenagerMarabunta_DeathSS_13
+  - first:
+      213: 5239751211240950439
+    second: TeenagerMarabunta_DeathSS_14
+  - first:
+      213: -5025784322727549955
+    second: TeenagerMarabunta_DeathSS_15
+  - first:
+      213: 8369444490680104195
+    second: TeenagerMarabunta_DeathSS_16
+  - first:
+      213: 1561998352866818255
+    second: TeenagerMarabunta_DeathSS_17
+  - first:
+      213: 7392846316522950660
+    second: TeenagerMarabunta_DeathSS_18
+  - first:
+      213: -6544200393776182024
+    second: TeenagerMarabunta_DeathSS_19
+  - first:
+      213: -4337052276838599675
+    second: TeenagerMarabunta_DeathSS_20
+  - first:
+      213: 3968839518254104525
+    second: TeenagerMarabunta_DeathSS_21
+  - first:
+      213: 6988731501513833663
+    second: TeenagerMarabunta_DeathSS_22
+  - first:
+      213: -5073659399404739667
+    second: TeenagerMarabunta_DeathSS_23
+  - first:
+      213: -8958641229956369750
+    second: TeenagerMarabunta_DeathSS_24
+  - first:
+      213: -9142996809259870985
+    second: TeenagerMarabunta_DeathSS_25
+  - first:
+      213: 504132351339224575
+    second: TeenagerMarabunta_DeathSS_26
+  - first:
+      213: 3488836125012299000
+    second: TeenagerMarabunta_DeathSS_27
+  - first:
+      213: 4301172355797337436
+    second: TeenagerMarabunta_DeathSS_28
+  - first:
+      213: -1033063874666645191
+    second: TeenagerMarabunta_DeathSS_29
+  - first:
+      213: -1057097788914485919
+    second: TeenagerMarabunta_DeathSS_30
+  - first:
+      213: -5811617390465783160
+    second: TeenagerMarabunta_DeathSS_31
+  - first:
+      213: -2337285192213653310
+    second: TeenagerMarabunta_DeathSS_32
+  - first:
+      213: 8096934988328813347
+    second: TeenagerMarabunta_DeathSS_33
+  - first:
+      213: 5114852357542388883
+    second: TeenagerMarabunta_DeathSS_34
+  - first:
+      213: 2572318521312186349
+    second: TeenagerMarabunta_DeathSS_35
+  - first:
+      213: 2016550452004959523
+    second: TeenagerMarabunta_DeathSS_36
+  - first:
+      213: -1811194620263554880
+    second: TeenagerMarabunta_DeathSS_37
+  - first:
+      213: -922878444420253322
+    second: TeenagerMarabunta_DeathSS_38
+  - first:
+      213: -5109402596058953830
+    second: TeenagerMarabunta_DeathSS_39
+  - first:
+      213: -8592541314360389062
+    second: TeenagerMarabunta_DeathSS_40
+  - first:
+      213: 7132906329824997715
+    second: TeenagerMarabunta_DeathSS_41
+  - first:
+      213: -4043605703860404468
+    second: TeenagerMarabunta_DeathSS_42
+  - first:
+      213: -3232430364142844130
+    second: TeenagerMarabunta_DeathSS_43
+  - first:
+      213: 3465490987829690575
+    second: TeenagerMarabunta_DeathSS_44
+  - first:
+      213: -947553783059243147
+    second: TeenagerMarabunta_DeathSS_45
+  - first:
+      213: 9074988335213114016
+    second: TeenagerMarabunta_DeathSS_46
+  - first:
+      213: 3600571248314320398
+    second: TeenagerMarabunta_DeathSS_47
+  - first:
+      213: -1354116415594249537
+    second: TeenagerMarabunta_DeathSS_48
+  - first:
+      213: 903664934800939134
+    second: TeenagerMarabunta_DeathSS_49
+  - first:
+      213: 1500026697233072449
+    second: TeenagerMarabunta_DeathSS_50
+  - first:
+      213: -7267556257280410620
+    second: TeenagerMarabunta_DeathSS_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13626
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda5d842bebf760439b388d9c3b25fea
+      internalID: -4781116591526791707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_1
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 13626
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0835cd5694f6484aa600d570070b5ff
+      internalID: -1644302421356308764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_2
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 13626
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcc410f537c06a4e96896ffc7bb36ee
+      internalID: -1628884972521960779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_3
+      rect:
+        serializedVersion: 2
+        x: 6138
+        y: 13626
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2362927d4bd5e449a5d97f5a2b3ce1e
+      internalID: 6798518810435797366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_4
+      rect:
+        serializedVersion: 2
+        x: 8184
+        y: 13626
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45faf5ec0a5bae44a53a2ec6827852a
+      internalID: 3167288258925277793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_5
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 13626
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0486d0c317288b4898807e016cf6138
+      internalID: 6002549925017937161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_6
+      rect:
+        serializedVersion: 2
+        x: 12276
+        y: 13626
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2985089c4dcbd44bbdafea0678c428
+      internalID: 7526688317363547802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_7
+      rect:
+        serializedVersion: 2
+        x: 14322
+        y: 13626
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5899b475d9010284483f86e21b367547
+      internalID: -3632489610556066432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10868
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09fc4d7ad68fc8438e149cf7fb6d390
+      internalID: 2198519583405416380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_9
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 10868
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d1eeedf9b37254bbe59837778c8d18
+      internalID: 7411653929138326303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_10
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 10868
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41727eb880c6c8c4c9eed3deea2f7f95
+      internalID: -3859667112373028423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_11
+      rect:
+        serializedVersion: 2
+        x: 6138
+        y: 10868
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702dbcce39366aa40a2a581d23d4d2ef
+      internalID: -4720824284747863139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_12
+      rect:
+        serializedVersion: 2
+        x: 8184
+        y: 10868
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c8e25521e4c694e9f0bbb0a0c95545
+      internalID: 8382706383794787559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_13
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 10868
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be24cf51e0a8e0a4a805cad88a293652
+      internalID: -4011148441229001196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_14
+      rect:
+        serializedVersion: 2
+        x: 12276
+        y: 10868
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070d5d1c833540a45b795f1809033da9
+      internalID: 5239751211240950439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_15
+      rect:
+        serializedVersion: 2
+        x: 14322
+        y: 10868
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb60de4decbe0784caa84aaa8129cf39
+      internalID: -5025784322727549955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8110
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c1fbc12195c6044b4cda8132f6f508
+      internalID: 8369444490680104195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_17
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 8110
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a856baa61f3263441880f880668f4d92
+      internalID: 1561998352866818255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_18
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 8110
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42502ec09509b6345ab4b00eb661e84a
+      internalID: 7392846316522950660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_19
+      rect:
+        serializedVersion: 2
+        x: 6138
+        y: 8110
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa4e23aa2a342d43a092e8bf3905c73
+      internalID: -6544200393776182024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_20
+      rect:
+        serializedVersion: 2
+        x: 8184
+        y: 8110
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8727ed71808cf814ea34be8973e2a834
+      internalID: -4337052276838599675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_21
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 8110
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c43eebeb3213e14e927a768e0efa2f3
+      internalID: 3968839518254104525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_22
+      rect:
+        serializedVersion: 2
+        x: 12276
+        y: 8110
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65599cdb945d434f9281c7e4df41ec1
+      internalID: 6988731501513833663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_23
+      rect:
+        serializedVersion: 2
+        x: 14322
+        y: 8110
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70ad47536fd18c499f8f33d61035c7a
+      internalID: -5073659399404739667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5352
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d9498114d845d4eaca85ad500a1aa8
+      internalID: -8958641229956369750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_25
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 5352
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4ef431a7a4cfc4bacabd117737d5c4
+      internalID: -9142996809259870985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_26
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 5352
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6a4399cbc3980449b55956bd1244ae
+      internalID: 504132351339224575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_27
+      rect:
+        serializedVersion: 2
+        x: 6138
+        y: 5352
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fa95736bfd3ff4d9f198fd432d0023
+      internalID: 3488836125012299000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_28
+      rect:
+        serializedVersion: 2
+        x: 8184
+        y: 5352
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34da97e3fadd6d14d88268a85099664a
+      internalID: 4301172355797337436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_29
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 5352
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d9be12ae0f5474ca6a29df11243107
+      internalID: -1033063874666645191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_30
+      rect:
+        serializedVersion: 2
+        x: 12276
+        y: 5352
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8328916c2b4a1f4f9e12fd27b5d0b11
+      internalID: -1057097788914485919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_31
+      rect:
+        serializedVersion: 2
+        x: 14322
+        y: 5352
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6c838166ca8e740a1f698823e9609c
+      internalID: -5811617390465783160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2594
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c957ac234f7f8f644b52a1b1cf7b79e3
+      internalID: -2337285192213653310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_33
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 2594
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3915cb1a21bf58f4187061374b88628b
+      internalID: 8096934988328813347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_DeathSS_34
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 2594
+        width: 2046
+        height: 2758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea39d3e71768014882d47c6bcef4477
+      internalID: 5114852357542388883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 46b71db94bba61144a50f43e74faf955
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6905772326657387624
+    second: TeenagerMarabunta_HurtSS_0
+  - first:
+      213: 2886706161950742632
+    second: TeenagerMarabunta_HurtSS_1
+  - first:
+      213: -282424182984616214
+    second: TeenagerMarabunta_HurtSS_2
+  - first:
+      213: -8084548780598747243
+    second: TeenagerMarabunta_HurtSS_3
+  - first:
+      213: -8103325683559059170
+    second: TeenagerMarabunta_HurtSS_4
+  - first:
+      213: -9011103289531167078
+    second: TeenagerMarabunta_HurtSS_5
+  - first:
+      213: 8197473667579155631
+    second: TeenagerMarabunta_HurtSS_6
+  - first:
+      213: 9139970821126296895
+    second: TeenagerMarabunta_HurtSS_7
+  - first:
+      213: 315253118221667296
+    second: TeenagerMarabunta_HurtSS_8
+  - first:
+      213: -2262589281033046065
+    second: TeenagerMarabunta_HurtSS_9
+  - first:
+      213: 2061342581328104433
+    second: TeenagerMarabunta_HurtSS_10
+  - first:
+      213: -7357124413018568073
+    second: TeenagerMarabunta_HurtSS_11
+  - first:
+      213: -3741983435337744082
+    second: TeenagerMarabunta_HurtSS_12
+  - first:
+      213: -4255227341686727223
+    second: TeenagerMarabunta_HurtSS_13
+  - first:
+      213: 1497438515546576985
+    second: TeenagerMarabunta_HurtSS_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TeenagerMarabunta_HurtSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5814
+        width: 2023
+        height: 2378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b16262de0de574f9380f7a5e2badab
+      internalID: -6905772326657387624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_HurtSS_1
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 5814
+        width: 2023
+        height: 2378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743493e1fd15abc46a23b59204672a5f
+      internalID: 2886706161950742632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_HurtSS_2
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 5814
+        width: 2023
+        height: 2378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761fc700d321fda41a622cf3e95253ff
+      internalID: -282424182984616214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_HurtSS_3
+      rect:
+        serializedVersion: 2
+        x: 6069
+        y: 5814
+        width: 2023
+        height: 2378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a50bc1dc2fd0af45933123b30b9e956
+      internalID: -8084548780598747243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_HurtSS_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3436
+        width: 2023
+        height: 2378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343ba87f61e2b984fa9103729d415b18
+      internalID: -8103325683559059170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_HurtSS_5
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 3436
+        width: 2023
+        height: 2378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df220c631ed8e04ab198d166a3c4669
+      internalID: -9011103289531167078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_HurtSS_6
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 3436
+        width: 2023
+        height: 2378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8d32d37bb9ac42bd5fd0ebb6329d8
+      internalID: 8197473667579155631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_HurtSS_7
+      rect:
+        serializedVersion: 2
+        x: 6069
+        y: 3436
+        width: 2023
+        height: 2378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daae4c61a7c665f4c9cf28e3cdb1fd4d
+      internalID: 9139970821126296895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_HurtSS_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1058
+        width: 2023
+        height: 2378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1fb55a691d5c84a84b0f753d2d38d7
+      internalID: 315253118221667296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1021 @@
+fileFormatVersion: 2
+guid: 1e64d2254bd8df247b92adeec384ce90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6073062981517563778
+    second: TeenagerMarabunta_WalkSS_0
+  - first:
+      213: 4097946448223859555
+    second: TeenagerMarabunta_WalkSS_1
+  - first:
+      213: 2187575486254404048
+    second: TeenagerMarabunta_WalkSS_2
+  - first:
+      213: 2151944513292010170
+    second: TeenagerMarabunta_WalkSS_3
+  - first:
+      213: 7003728690340817525
+    second: TeenagerMarabunta_WalkSS_4
+  - first:
+      213: -5204740030683137607
+    second: TeenagerMarabunta_WalkSS_5
+  - first:
+      213: 9052873380138188493
+    second: TeenagerMarabunta_WalkSS_6
+  - first:
+      213: -7929865115969568856
+    second: TeenagerMarabunta_WalkSS_7
+  - first:
+      213: 438850125593636131
+    second: TeenagerMarabunta_WalkSS_8
+  - first:
+      213: 9146131602682250092
+    second: TeenagerMarabunta_WalkSS_9
+  - first:
+      213: -1193486681916660383
+    second: TeenagerMarabunta_WalkSS_10
+  - first:
+      213: -1584105542576872512
+    second: TeenagerMarabunta_WalkSS_11
+  - first:
+      213: 3151199148891845993
+    second: TeenagerMarabunta_WalkSS_12
+  - first:
+      213: 458883852862893567
+    second: TeenagerMarabunta_WalkSS_13
+  - first:
+      213: 6882396039784188066
+    second: TeenagerMarabunta_WalkSS_14
+  - first:
+      213: -6376402215725195273
+    second: TeenagerMarabunta_WalkSS_15
+  - first:
+      213: 1202765473920949539
+    second: TeenagerMarabunta_WalkSS_16
+  - first:
+      213: 5184084735669984568
+    second: TeenagerMarabunta_WalkSS_17
+  - first:
+      213: 51436912224501686
+    second: TeenagerMarabunta_WalkSS_18
+  - first:
+      213: -1246511642015665445
+    second: TeenagerMarabunta_WalkSS_19
+  - first:
+      213: -1865771719511673559
+    second: TeenagerMarabunta_WalkSS_20
+  - first:
+      213: 3052276664802887223
+    second: TeenagerMarabunta_WalkSS_21
+  - first:
+      213: -2432010535892536347
+    second: TeenagerMarabunta_WalkSS_22
+  - first:
+      213: 1013005884156675045
+    second: TeenagerMarabunta_WalkSS_23
+  - first:
+      213: 7952781587635110950
+    second: TeenagerMarabunta_WalkSS_24
+  - first:
+      213: -7346197278820653931
+    second: TeenagerMarabunta_WalkSS_25
+  - first:
+      213: -1091068321268283352
+    second: TeenagerMarabunta_WalkSS_26
+  - first:
+      213: -6641036107463861305
+    second: TeenagerMarabunta_WalkSS_27
+  - first:
+      213: 6695407530744613250
+    second: TeenagerMarabunta_WalkSS_28
+  - first:
+      213: -1081316343540406012
+    second: TeenagerMarabunta_WalkSS_29
+  - first:
+      213: 99762034051550147
+    second: TeenagerMarabunta_WalkSS_30
+  - first:
+      213: 4507889186997506390
+    second: TeenagerMarabunta_WalkSS_31
+  - first:
+      213: 6747456126223622531
+    second: TeenagerMarabunta_WalkSS_32
+  - first:
+      213: 4706690087599996430
+    second: TeenagerMarabunta_WalkSS_33
+  - first:
+      213: -8665954828587371678
+    second: TeenagerMarabunta_WalkSS_34
+  - first:
+      213: -6376770638435626997
+    second: TeenagerMarabunta_WalkSS_35
+  - first:
+      213: -1145887445299001564
+    second: TeenagerMarabunta_WalkSS_36
+  - first:
+      213: -4288497886290849717
+    second: TeenagerMarabunta_WalkSS_37
+  - first:
+      213: -5083608957958139569
+    second: TeenagerMarabunta_WalkSS_38
+  - first:
+      213: 8315606392416841523
+    second: TeenagerMarabunta_WalkSS_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14156
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2ac3df2635aa842b0d77c9eaac9d33
+      internalID: -6073062981517563778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_1
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 14156
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7af4aea8e2ef44c8300fdf0c9560b3
+      internalID: 4097946448223859555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_2
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 14156
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c52d3b060b0424f8d8611f72f2cce0
+      internalID: 2187575486254404048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_3
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 14156
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf98832dbd13c9643a28c025a7b31b03
+      internalID: 2151944513292010170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_4
+      rect:
+        serializedVersion: 2
+        x: 8600
+        y: 14156
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be53a23bedcb07429fbb6dc661aa103
+      internalID: 7003728690340817525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_5
+      rect:
+        serializedVersion: 2
+        x: 10750
+        y: 14156
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6437dce40da7a4f99fa76c3aa27195
+      internalID: -5204740030683137607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_6
+      rect:
+        serializedVersion: 2
+        x: 12900
+        y: 14156
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c723e9f1d254d5b4e8a27edd9120d708
+      internalID: 9052873380138188493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11928
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae4e8b612a077c4d86ab7fc57e1664a
+      internalID: -7929865115969568856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_8
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 11928
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9b66dffff01f44cb5dd9f0b450c3ba
+      internalID: 438850125593636131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_9
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 11928
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9380a7e8dfeba4093d3f560fe8b06f
+      internalID: 9146131602682250092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_10
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 11928
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6753f349a4aec1a4092fbe524fce1587
+      internalID: -1193486681916660383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_11
+      rect:
+        serializedVersion: 2
+        x: 8600
+        y: 11928
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08865d8339053904fb8887bd7d92cd0c
+      internalID: -1584105542576872512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_12
+      rect:
+        serializedVersion: 2
+        x: 10750
+        y: 11928
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fc459e65b3313489d5a98436d7bbbe
+      internalID: 3151199148891845993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_13
+      rect:
+        serializedVersion: 2
+        x: 12900
+        y: 11928
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5157590d5a3684648b0afb234d492903
+      internalID: 458883852862893567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9700
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da6b7517d62a3f4494c114f259b9578
+      internalID: 6882396039784188066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_15
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 9700
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44113336a06c264c9342d62f010d055
+      internalID: -6376402215725195273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_16
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 9700
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a0cd5e91a2f742b3a90f7664f91bb
+      internalID: 1202765473920949539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_17
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 9700
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310c7bc2c3a04e74cac41c5c2f2c86b9
+      internalID: 5184084735669984568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_18
+      rect:
+        serializedVersion: 2
+        x: 8600
+        y: 9700
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa650922f63be142959789236885e95
+      internalID: 51436912224501686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_19
+      rect:
+        serializedVersion: 2
+        x: 10750
+        y: 9700
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb01aa00a3e68c46b0ad160ff03b5d6
+      internalID: -1246511642015665445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_20
+      rect:
+        serializedVersion: 2
+        x: 12900
+        y: 9700
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934aae7a65c7ebb4a8fb2834d019ea7a
+      internalID: -1865771719511673559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7472
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e359837777f0c84481eb967428856c3
+      internalID: 3052276664802887223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_22
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 7472
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29df25e509fc1dc45ab1e9f663610e68
+      internalID: -2432010535892536347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_23
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 7472
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed3cf4bcb15a5e4e8594e99c8d92c73
+      internalID: 1013005884156675045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_24
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 7472
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a697b11ee05b6458e720728d1d1293
+      internalID: 7952781587635110950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_25
+      rect:
+        serializedVersion: 2
+        x: 8600
+        y: 7472
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c4c5df82aa00f4796911b53aadcab3
+      internalID: -7346197278820653931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_26
+      rect:
+        serializedVersion: 2
+        x: 10750
+        y: 7472
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395a90859e17a3b4f9f4ebe10e2219c4
+      internalID: -1091068321268283352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_27
+      rect:
+        serializedVersion: 2
+        x: 12900
+        y: 7472
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd096ce852c67c449f7303cc7e51329
+      internalID: -6641036107463861305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5244
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c40d3a150f2184c837d3528ab42de3
+      internalID: 6695407530744613250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_29
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 5244
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3418cc5acc48845bfed4d2dae4e026
+      internalID: -1081316343540406012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_30
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 5244
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51bd26e68f5faa49bdd299066831ba8
+      internalID: 99762034051550147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_31
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 5244
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d824dce88a4d148ba97e5ef0b24503
+      internalID: 4507889186997506390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_32
+      rect:
+        serializedVersion: 2
+        x: 8600
+        y: 5244
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6399e2a3ad0bfa40adc4ae3963b50df
+      internalID: 6747456126223622531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_33
+      rect:
+        serializedVersion: 2
+        x: 10750
+        y: 5244
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c337a51d2cacd4f9fb6263baad7198
+      internalID: 4706690087599996430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_34
+      rect:
+        serializedVersion: 2
+        x: 12900
+        y: 5244
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0490891aafaf8ba45bd560eee3c16464
+      internalID: -8665954828587371678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3016
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57814a2476a54044ca11e71996e96660
+      internalID: -6376770638435626997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_36
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 3016
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d8340aa367da4e80374ef97ad6eea
+      internalID: -1145887445299001564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeenagerMarabunta_WalkSS_37
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 3016
+        width: 2150
+        height: 2228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a9d6769feb91c41a7fca050eed06d5
+      internalID: -4288497886290849717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

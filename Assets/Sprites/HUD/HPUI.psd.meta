@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 0c75ac29fe3852742948d5100248f190
+importerOverride: Assembly-CSharp:UnityEditor.U2D.PSD:PSDImporterOverride
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1611f718633709f4ab4cce2eeecba56b, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: AnelMeioCentroFrente
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1866
+      y: 4
+      width: 136
+      height: 649
+    spriteID: 1251abd3255897c4a963256fc00a8bc2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -94, y: -2621}
+  - name: AnelMeioEsquerdoFrente
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 579
+      y: 1990
+      width: 381
+      height: 627
+    spriteID: 32f7edebf11f08b469a69ea78c1551d1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -944, y: -690}
+  - name: AnelMeioDireitoFrente
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 579
+      y: 2625
+      width: 381
+      height: 627
+    spriteID: 09d98bef916b9064b8f47548b2fcac9e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1511, y: -55}
+  - name: AnelCima
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1088
+      y: 4
+      width: 770
+      height: 717
+    spriteID: 24507ded80c5dd44798e004473d8249f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -537, y: -3051}
+  - name: AnelBaixoCentro
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1088
+      y: 1362
+      width: 235
+      height: 406
+    spriteID: 4abbdb1e6130b7040bfba6b12c89f25f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -799, y: -1037}
+  - name: AnelMeioCentroAtras
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 876
+      y: 3260
+      width: 112
+      height: 665
+    spriteID: 7c953696475793d41a51e33e3e8fab97
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1040, y: 646}
+  - name: AnelBaixoEsquerdo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1088
+      y: 1776
+      width: 216
+      height: 392
+    spriteID: 7751c5f054d81d34c99d4242d10ae022
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -476, y: -690}
+  - name: AnelBaixoDireito
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1088
+      y: 2176
+      width: 216
+      height: 392
+    spriteID: 2f8502296af1e2944b5bb73115061e66
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1121, y: -290}
+  - name: AnelMeioEsquerdoAtras
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 579
+      y: 3260
+      width: 289
+      height: 625
+    spriteID: 5da803551f75c4b4c8cc33389c4c8489
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1064, y: 581}
+  - name: AnelMeioDireitoAtras
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1088
+      y: 729
+      width: 289
+      height: 625
+    spriteID: e717aed7693e01749a2b874cc27602bb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -975, y: -1950}
+  - name: PenaCentro
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 567
+      height: 2010
+    spriteID: c073411b33cf6c140aa50dfe3fdbf1ad
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1717, y: -408}
+  - name: PenaLadoEsquerdo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 579
+      y: 4
+      width: 501
+      height: 1978
+    spriteID: 8414bb6cf7592c74f81c5ed3d7ed8456
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -603, y: -528}
+  - name: PenaLadoDireito
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2022
+      width: 531
+      height: 1970
+    spriteID: 30df0c3e24067db43affdd3217fe4912
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2306, y: 1486}
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 4096
+  documentSize: {x: 4096, y: 4096}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: HPHUD
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 0
+    mosaicPosition: {x: 0, y: 0}
+  - name: AnelMeioCentroFrente
+    spriteName: AnelMeioCentroFrente
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1251abd3255897c4a963256fc00a8bc2
+    layerID: 1482423519
+    mosaicPosition: {x: 1866, y: 4}
+  - name: AnelMeioEsquerdoFrente
+    spriteName: AnelMeioEsquerdoFrente
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 32f7edebf11f08b469a69ea78c1551d1
+    layerID: 1000368786
+    mosaicPosition: {x: 579, y: 1990}
+  - name: AnelMeioDireitoFrente
+    spriteName: AnelMeioDireitoFrente
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 09d98bef916b9064b8f47548b2fcac9e
+    layerID: -195052138
+    mosaicPosition: {x: 579, y: 2625}
+  - name: AnelCima
+    spriteName: AnelCima
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 24507ded80c5dd44798e004473d8249f
+    layerID: -633792102
+    mosaicPosition: {x: 1088, y: 4}
+  - name: AnelBaixoCentro
+    spriteName: AnelBaixoCentro
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4abbdb1e6130b7040bfba6b12c89f25f
+    layerID: 1345669216
+    mosaicPosition: {x: 1088, y: 1362}
+  - name: AnelMeioCentroAtras
+    spriteName: AnelMeioCentroAtras
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7c953696475793d41a51e33e3e8fab97
+    layerID: 62384440
+    mosaicPosition: {x: 876, y: 3260}
+  - name: AnelBaixoEsquerdo
+    spriteName: AnelBaixoEsquerdo
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7751c5f054d81d34c99d4242d10ae022
+    layerID: -2051968491
+    mosaicPosition: {x: 1088, y: 1776}
+  - name: AnelBaixoDireito
+    spriteName: AnelBaixoDireito
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2f8502296af1e2944b5bb73115061e66
+    layerID: -357473693
+    mosaicPosition: {x: 1088, y: 2176}
+  - name: AnelMeioEsquerdoAtras
+    spriteName: AnelMeioEsquerdoAtras
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5da803551f75c4b4c8cc33389c4c8489
+    layerID: -35431585
+    mosaicPosition: {x: 579, y: 3260}
+  - name: AnelMeioDireitoAtras
+    spriteName: AnelMeioDireitoAtras
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e717aed7693e01749a2b874cc27602bb
+    layerID: 583232169
+    mosaicPosition: {x: 1088, y: 729}
+  - name: PenaCentro
+    spriteName: PenaCentro
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c073411b33cf6c140aa50dfe3fdbf1ad
+    layerID: 729969695
+    mosaicPosition: {x: 4, y: 4}
+  - name: PenaLadoEsquerdo
+    spriteName: PenaLadoEsquerdo
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8414bb6cf7592c74f81c5ed3d7ed8456
+    layerID: -2066080022
+    mosaicPosition: {x: 579, y: 4}
+  - name: PenaLadoDireito
+    spriteName: PenaLadoDireito
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 30df0c3e24067db43affdd3217fe4912
+    layerID: 1387439542
+    mosaicPosition: {x: 4, y: 2022}
+  characterData:
+    bones: []
+    parts:
+    - spritePosition:
+        x: 1960
+        y: 2625
+        width: 136
+        height: 649
+      spriteId: 1251abd3255897c4a963256fc00a8bc2
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1523
+        y: 2680
+        width: 381
+        height: 627
+      spriteId: 32f7edebf11f08b469a69ea78c1551d1
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 2090
+        y: 2680
+        width: 381
+        height: 627
+      spriteId: 09d98bef916b9064b8f47548b2fcac9e
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1625
+        y: 3055
+        width: 770
+        height: 717
+      spriteId: 24507ded80c5dd44798e004473d8249f
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1887
+        y: 2399
+        width: 235
+        height: 406
+      spriteId: 4abbdb1e6130b7040bfba6b12c89f25f
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1916
+        y: 2614
+        width: 112
+        height: 665
+      spriteId: 7c953696475793d41a51e33e3e8fab97
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1564
+        y: 2466
+        width: 216
+        height: 392
+      spriteId: 7751c5f054d81d34c99d4242d10ae022
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 2209
+        y: 2466
+        width: 216
+        height: 392
+      spriteId: 2f8502296af1e2944b5bb73115061e66
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1643
+        y: 2679
+        width: 289
+        height: 625
+      spriteId: 5da803551f75c4b4c8cc33389c4c8489
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 2063
+        y: 2679
+        width: 289
+        height: 625
+      spriteId: e717aed7693e01749a2b874cc27602bb
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1721
+        y: 412
+        width: 567
+        height: 2010
+      spriteId: c073411b33cf6c140aa50dfe3fdbf1ad
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1182
+        y: 532
+        width: 501
+        height: 1978
+      spriteId: 8414bb6cf7592c74f81c5ed3d7ed8456
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 2310
+        y: 536
+        width: 531
+        height: 1970
+      spriteId: 30df0c3e24067db43affdd3217fe4912
+      bones: 
+      parentGroup: 0
+      order: 0
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: HPUI Texture
+  prefabAssetName: HPUI Prefab
+  spriteLibAssetName: HPUI Sprite Lib
+  secondarySpriteTextures: []

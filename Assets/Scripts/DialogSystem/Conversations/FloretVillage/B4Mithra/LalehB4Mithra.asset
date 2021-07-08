@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 128cd39bbc3503041b279df140e30fad, type: 3}
+  m_Name: LalehB4Mithra
+  m_EditorClassIdentifier: 
+  Condition: 
+  linesEN:
+  - CharacterName: Nasreen Kianian
+    DialogText: Good morning, Laleh!
+    voice: {fileID: 0}
+  - CharacterName: Keeper Laleh
+    DialogText: Hi, Nasreen! Did you sleep well?
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: And how can you not sleep well in here? The noise from the Cataract
+      is so relaxing!
+    voice: {fileID: 0}
+  - CharacterName: Keeper Laleh
+    DialogText: 
+    voice: {fileID: 0}
+  - CharacterName: 
+    DialogText: 
+    voice: {fileID: 0}
+  - CharacterName: 
+    DialogText: 
+    voice: {fileID: 0}
+  - CharacterName: 
+    DialogText: 
+    voice: {fileID: 0}
+  linesBR:
+  - CharacterName: Nasreen Kianian
+    DialogText: Bom dia, Laleh!
+    voice: {fileID: 0}
+  - CharacterName: Guarda Laleh
+    DialogText: Oi, Nasreen! Dormiu bem?
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: "E tem como n\xE3o dormir? O barulho da catarata a noite \xE9 t\xE3o
+      relaxante!"
+    voice: {fileID: 0}
+  - CharacterName: Guarda Laleh
+    DialogText: "Bendiz a Ela e os males h\xE3o de serem arrastados pela correnteza."
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: Que assim seja!
+    voice: {fileID: 0}
+  - CharacterName: Guarda Laleh
+    DialogText: "N\xE3o se esque\xE7a de tomar cuidado com as marabunta, hein!"
+    voice: {fileID: 0}
+  - CharacterName: Nasreen Kianian
+    DialogText: Nem quando eu tava com minha tribo eu tinha medo dessas formigas,
+      por que teria agora?!
+    voice: {fileID: 0}
